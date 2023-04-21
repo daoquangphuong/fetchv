@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Hozzáadás"
+   },
+   "advanced_membership": {
+      "message": "Haladó tagság"
+   },
+   "block": {
+      "message": "Az összes videó letiltása ebből a domainből"
+   },
+   "block_domain_count_limit": {
+      "message": "Legfeljebb 30 domaint tilthat le."
+   },
+   "block_success": {
+      "message": "A blokkolás sikeres volt! A beállításokban tudod eltávolítani."
+   },
+   "bottom_alert": {
+      "message": "Előfordulhat, hogy egyes videókat le kell játszani a linkek észleléséhez, ezért próbálja meg lejátszani őket. Ha a lejátszás után sem találja meg a linket, próbálja meg frissíteni az oldalt, vagy szerezze be azzal\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Felvételi mód\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "A gyorsítótár törölve"
+   },
+   "cache_deleteing": {
+      "message": "A gyorsítótár törlődik:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Az adatok üresek, nem tölthetők le"
+   },
+   "chunks_count": {
+      "message": "A darabok száma:"
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "conversion_error": {
+      "message": "Konverziós hiba!"
+   },
+   "copy": {
+      "message": "Másolat"
+   },
+   "copy_need_upgrade": {
+      "message": "A másolás tilos, mert nem vagy haladó tagság"
+   },
+   "copy_success": {
+      "message": "Sikeres másolás."
+   },
+   "current_user": {
+      "message": "Aktív felhasználó:"
+   },
+   "delete": {
+      "message": "Töröl"
+   },
+   "domain": {
+      "message": "Tartomány"
+   },
+   "domain_blocking": {
+      "message": "Domain árnyékolás"
+   },
+   "domain_blocking_desc_1": {
+      "message": "A következő domain névből származó fájlok nem jelennek meg a letöltési listában. https:// vagy http:// nélkül, például így: www.example.com"
+   },
+   "download": {
+      "message": "Letöltés"
+   },
+   "download_cached": {
+      "message": "Töltse le a gyorsítótárazott részt"
+   },
+   "failed_to_get_resource": {
+      "message": "Nem sikerült megszerezni az erőforrást!"
+   },
+   "file": {
+      "message": "Fájlok"
+   },
+   "format_filter": {
+      "message": "Formátumszűrés"
+   },
+   "format_filter_desc_1": {
+      "message": "A következő listában a letiltott kiterjesztett videótípusokat a rendszer figyelmen kívül hagyja a megragadáskor. Ha az alábbi listában van olyan videótípus, amelyre nincs szüksége, letilthatja."
+   },
+   "help": {
+      "message": "Segítség"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "itthon"
+   },
+   "hour": {
+      "message": "óra"
+   },
+   "loading": {
+      "message": "Betöltés..."
+   },
+   "loading_resources": {
+      "message": "Erőforrás betöltése..."
+   },
+   "loading_resources_fail": {
+      "message": "Az erőforrás betöltése nem sikerült!"
+   },
+   "lower_limit": {
+      "message": "Alsó határ"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV videó letöltő"
+   },
+   "manifest_description": {
+      "message": "Töltsön le mindenféle videót online, beleértve a HLS, az m3u8, az blob, az mp4, a webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Videó letöltő(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Tagközpont"
+   },
+   "merging_data": {
+      "message": "Adatok egyesítése..."
+   },
+   "merging_data_error": {
+      "message": "Adategyesítési hiba!"
+   },
+   "merging_videos": {
+      "message": "Videók kombinálása..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Ha az aktuális videó opcionális felbontású, kérjük, az automatikus helyett fix felbontást válasszon, ellenkező esetben rossz hálózati viszonyok, automatikus felbontásváltás esetén a rögzített videó több, különböző felbontású klipre oszlik."
+   },
+   "modal_close": {
+      "message": "Bezárás"
+   },
+   "modal_confirm": {
+      "message": "megerősít"
+   },
+   "modal_title": {
+      "message": "Tippek"
+   },
+   "more_than_one_day": {
+      "message": "Több mint egy nap"
+   },
+   "network_error": {
+      "message": "Hálózati hiba!"
+   },
+   "no_cache": {
+      "message": "Még nincs helyi gyorsítótár!"
+   },
+   "no_resources": {
+      "message": "Nincsenek letöltési források"
+   },
+   "no_result": {
+      "message": "Nem található erőforrásfájl!"
+   },
+   "no_video": {
+      "message": "A videót nem lehet rögzíteni, vagy a videó nem létezik!"
+   },
+   "normal_membership": {
+      "message": "Normál tagság"
+   },
+   "not_support": {
+      "message": "Ez a webhely nem támogatott"
+   },
+   "options": {
+      "message": "választási lehetőség"
+   },
+   "play": {
+      "message": "Játék"
+   },
+   "record_complete_clip": {
+      "message": "Mivel az adatfolyamban különböző felbontású adatok vannak, a videó szegmensekre van felosztva."
+   },
+   "record_error_encryption": {
+      "message": "Úgy tűnik, hogy a videóadatok szerzői jogvédelem alatt állnak."
+   },
+   "recording_complete": {
+      "message": "Felvétel kész!"
+   },
+   "recording_error": {
+      "message": "Felvételi hiba!"
+   },
+   "request_timed_out": {
+      "message": "A kérés meghaladta a rendelkezésre álló időkeretet!"
+   },
+   "reset": {
+      "message": "Visszaállítás"
+   },
+   "resources_list_empty": {
+      "message": "Az erőforráslista üres!"
+   },
+   "save": {
+      "message": "Megment"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "A szerver csatlakozás sikertelen!"
+   },
+   "setting": {
+      "message": "Beállít"
+   },
+   "setting_success": {
+      "message": "A siker beállítása!"
+   },
+   "size": {
+      "message": "Méret"
+   },
+   "size_filter": {
+      "message": "Méretszűrés"
+   },
+   "size_filter_desc_1": {
+      "message": "Ezzel az opcióval ideális méretű videókat készíthet. Például, ha az alacsonyabb 1024 KB, a rendszer figyelmen kívül hagyja az 1024 KB-nál kisebb videókat. Ha a felső 1024 KB, a rendszer figyelmen kívül hagyja az 1024 KB-nál nagyobb videókat. Ha az opció értéke 0, az azt jelenti, hogy nincs korlát."
+   },
+   "size_filter_desc_2": {
+      "message": "Ennek az opciónak a mértékegysége \"KB\". Ha a használt mértékegység bájt, MB és GB, akkor ennek megfelelő átalakítást kell végrehajtania. Íme a konverziós kapcsolat:"
+   },
+   "task_exists": {
+      "message": "A feladat már létezik!"
+   },
+   "task_status_stop": {
+      "message": "A feladat függőben van..."
+   },
+   "thunks_over_tips": {
+      "message": "A túl sok darab a programfolyamat sikertelenségét okozhatja. Kérjük, mielőbb mentse el, és kezdjen új felvételt."
+   },
+   "timeout": {
+      "message": "Lejárati idő:"
+   },
+   "unable_to_download": {
+      "message": "Nem lehet letölteni!"
+   },
+   "unknown_mistake": {
+      "message": "Ismeretlen hiba!"
+   },
+   "upgrade": {
+      "message": "Frissítés"
+   },
+   "upgrade_renewal": {
+      "message": "Tagság megújítása"
+   },
+   "upper_limit": {
+      "message": "Felső határ"
+   },
+   "user_type": {
+      "message": "Felhasználó típusa:"
+   },
+   "visitor": {
+      "message": "Látogató"
+   },
+   "waiting_for_download": {
+      "message": "Várakozás a letöltésre..."
+   },
+   "webstore": {
+      "message": "Bolt"
+   }
+}

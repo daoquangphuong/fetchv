@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "추가하다"
+   },
+   "advanced_membership": {
+      "message": "고급 멤버십"
+   },
+   "block": {
+      "message": "이 도메인의 모든 동영상 차단"
+   },
+   "block_domain_count_limit": {
+      "message": "최대 30개의 도메인을 차단할 수 있습니다."
+   },
+   "block_success": {
+      "message": "차단 성공! 설정에서 제거할 수 있습니다."
+   },
+   "bottom_alert": {
+      "message": "일부 비디오는 링크를 감지하기 위해 재생해야 할 수 있으므로 재생해 보십시오. 재생한 후에도 링크를 얻을 수 없으면 페이지를 새로고침하거나 다음을 사용하여 가져옵니다.\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">녹음 모드\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "캐시 삭제됨"
+   },
+   "cache_deleteing": {
+      "message": "캐시가 삭제됩니다."
+   },
+   "cannot_be_downloaded": {
+      "message": "데이터가 비어 있어 다운로드할 수 없습니다."
+   },
+   "chunks_count": {
+      "message": "청크 수:"
+   },
+   "close": {
+      "message": "닫다"
+   },
+   "conversion_error": {
+      "message": "변환 오류!"
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "copy_need_upgrade": {
+      "message": "고급 회원이 아니므로 복사 금지"
+   },
+   "copy_success": {
+      "message": "성공적으로 복사되었습니다."
+   },
+   "current_user": {
+      "message": "활성 사용자:"
+   },
+   "delete": {
+      "message": "삭제"
+   },
+   "domain": {
+      "message": "도메인"
+   },
+   "domain_blocking": {
+      "message": "도메인 차폐"
+   },
+   "domain_blocking_desc_1": {
+      "message": "다음 도메인 이름의 파일은 다운로드 목록에 나타나지 않습니다. https:// 또는 http:// 없이: www.example.com"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "download_cached": {
+      "message": "캐시된 부분 다운로드"
+   },
+   "failed_to_get_resource": {
+      "message": "리소스를 가져오지 못했습니다!"
+   },
+   "file": {
+      "message": "파일"
+   },
+   "format_filter": {
+      "message": "형식 필터링"
+   },
+   "format_filter_desc_1": {
+      "message": "다음 목록에서 비활성화된 확장 비디오 유형은 잡을 때 무시됩니다. 아래 목록에 필요하지 않은 비디오 유형이 있는 경우 비활성화할 수 있습니다."
+   },
+   "help": {
+      "message": "돕다"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "집"
+   },
+   "hour": {
+      "message": "시"
+   },
+   "loading": {
+      "message": "로드 중..."
+   },
+   "loading_resources": {
+      "message": "리소스 로드 중..."
+   },
+   "loading_resources_fail": {
+      "message": "리소스 로드에 실패했습니다!"
+   },
+   "lower_limit": {
+      "message": "하한"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV 비디오 다운로드"
+   },
+   "manifest_description": {
+      "message": "HLS, m3u8, blob, mp4, webm...을 포함한 모든 종류의 비디오를 온라인으로 다운로드하십시오."
+   },
+   "manifest_name": {
+      "message": "FetchV:비디오 다운로드(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "회원센터"
+   },
+   "merging_data": {
+      "message": "데이터 병합 중..."
+   },
+   "merging_data_error": {
+      "message": "데이터 병합 오류!"
+   },
+   "merging_videos": {
+      "message": "동영상 합치기..."
+   },
+   "minute": {
+      "message": "분"
+   },
+   "modal_body": {
+      "message": "현재 비디오에 선택적 해상도가 있는 경우 자동 대신 고정 해상도를 선택하십시오. 그렇지 않으면 네트워크 상태가 좋지 않은 경우 자동 해상도 전환으로 녹화된 비디오가 다른 해상도의 여러 클립으로 분할됩니다."
+   },
+   "modal_close": {
+      "message": "닫다"
+   },
+   "modal_confirm": {
+      "message": "확인하다"
+   },
+   "modal_title": {
+      "message": "팁"
+   },
+   "more_than_one_day": {
+      "message": "하루 이상"
+   },
+   "network_error": {
+      "message": "네트워크 오류!"
+   },
+   "no_cache": {
+      "message": "아직 로컬 캐시가 없습니다!"
+   },
+   "no_resources": {
+      "message": "다운로드 리소스 없음"
+   },
+   "no_result": {
+      "message": "리소스 파일을 찾을 수 없습니다!"
+   },
+   "no_video": {
+      "message": "비디오를 녹화할 수 없거나 비디오가 존재하지 않습니다!"
+   },
+   "normal_membership": {
+      "message": "일반 회원"
+   },
+   "not_support": {
+      "message": "이 사이트는 지원되지 않습니다"
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "play": {
+      "message": "놀다"
+   },
+   "record_complete_clip": {
+      "message": "스트림의 데이터 해상도가 다르기 때문에 비디오가 세그먼트로 분할됩니다."
+   },
+   "record_error_encryption": {
+      "message": "비디오 데이터는 저작권이 있는 것으로 보입니다."
+   },
+   "recording_complete": {
+      "message": "녹음 완료!"
+   },
+   "recording_error": {
+      "message": "녹음 오류!"
+   },
+   "request_timed_out": {
+      "message": "요청 시간이 초과되었습니다!"
+   },
+   "reset": {
+      "message": "초기화"
+   },
+   "resources_list_empty": {
+      "message": "리소스 목록이 비어 있습니다!"
+   },
+   "save": {
+      "message": "구하다"
+   },
+   "second": {
+      "message": "에스"
+   },
+   "server_connection_failed": {
+      "message": "서버 연결에 실패했습니다!"
+   },
+   "setting": {
+      "message": "설정"
+   },
+   "setting_success": {
+      "message": "설정 성공!"
+   },
+   "size": {
+      "message": "크기"
+   },
+   "size_filter": {
+      "message": "크기 필터링"
+   },
+   "size_filter_desc_1": {
+      "message": "이 옵션을 사용하면 이상적인 크기의 비디오를 얻을 수 있습니다. 예를 들어 하위가 1024KB인 경우 1024KB보다 작은 동영상은 무시됩니다. 상위 항목이 1024KB인 경우 1024KB보다 큰 동영상은 무시됩니다. 옵션 값이 0이면 제한이 없음을 의미합니다."
+   },
+   "size_filter_desc_2": {
+      "message": "이 옵션의 단위는 \"KB\"입니다. 사용하는 단위가 바이트, MB 및 GB인 경우 해당 변환을 수행해야 합니다. 변환 관계는 다음과 같습니다."
+   },
+   "task_exists": {
+      "message": "작업이 이미 존재합니다!"
+   },
+   "task_status_stop": {
+      "message": "작업이 보류 중입니다..."
+   },
+   "thunks_over_tips": {
+      "message": "청크가 너무 많으면 프로그램 프로세스가 실패할 수 있습니다. 가능한 한 빨리 저장하고 새 녹음을 시작하십시오."
+   },
+   "timeout": {
+      "message": "만료 시간:"
+   },
+   "unable_to_download": {
+      "message": "다운로드 할 수 없습니다!"
+   },
+   "unknown_mistake": {
+      "message": "알 수 없는 실수!"
+   },
+   "upgrade": {
+      "message": "업그레이드"
+   },
+   "upgrade_renewal": {
+      "message": "멤버십 갱신"
+   },
+   "upper_limit": {
+      "message": "상한"
+   },
+   "user_type": {
+      "message": "사용자 유형:"
+   },
+   "visitor": {
+      "message": "방문객"
+   },
+   "waiting_for_download": {
+      "message": "다운로드 대기 중..."
+   },
+   "webstore": {
+      "message": "가게"
+   }
+}

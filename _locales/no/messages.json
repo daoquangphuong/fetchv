@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Legge til"
+   },
+   "advanced_membership": {
+      "message": "Avansert medlemskap"
+   },
+   "block": {
+      "message": "Blokker alle videoer fra dette domenet"
+   },
+   "block_domain_count_limit": {
+      "message": "Du kan blokkere opptil 30 domener."
+   },
+   "block_success": {
+      "message": "Blokkering lyktes! Du kan fjerne den i innstillingene."
+   },
+   "bottom_alert": {
+      "message": "Noen videoer må kanskje spilles av for å oppdage koblinger, så prøv å spille dem. Hvis du fortsatt ikke kan få koblingen etter å ha spilt, kan du prøve å oppdatere siden, eller få den med\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Opptaksmodus\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Buffer slettet"
+   },
+   "cache_deleteing": {
+      "message": "Cachen vil bli slettet:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Data er tomme, kan ikke lastes ned"
+   },
+   "chunks_count": {
+      "message": "Antall biter:"
+   },
+   "close": {
+      "message": "Lukk"
+   },
+   "conversion_error": {
+      "message": "Konverteringsfeil!"
+   },
+   "copy": {
+      "message": "Kopiere"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopiert forbudt fordi du ikke er avansert medlemskap"
+   },
+   "copy_success": {
+      "message": "Kopiert vellykket."
+   },
+   "current_user": {
+      "message": "Aktiv bruker:"
+   },
+   "delete": {
+      "message": "Slett"
+   },
+   "domain": {
+      "message": "Domene"
+   },
+   "domain_blocking": {
+      "message": "Domeneskjerming"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Filer fra følgende domenenavn vil ikke vises i nedlastingslisten. Uten https:// eller http://, som dette: www.example.com"
+   },
+   "download": {
+      "message": "nedlasting"
+   },
+   "download_cached": {
+      "message": "Last ned bufret del"
+   },
+   "failed_to_get_resource": {
+      "message": "Kunne ikke hente ressurs!"
+   },
+   "file": {
+      "message": "Filer"
+   },
+   "format_filter": {
+      "message": "Formatfiltrering"
+   },
+   "format_filter_desc_1": {
+      "message": "I den følgende listen vil de deaktiverte utvidede videotypene bli ignorert når du griper. Hvis det er en videotype i listen nedenfor som du ikke trenger, kan du deaktivere den."
+   },
+   "help": {
+      "message": "Hjelp"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Hjem"
+   },
+   "hour": {
+      "message": "time"
+   },
+   "loading": {
+      "message": "Laster inn..."
+   },
+   "loading_resources": {
+      "message": "Ressurs laster..."
+   },
+   "loading_resources_fail": {
+      "message": "Ressursinnlasting mislyktes!"
+   },
+   "lower_limit": {
+      "message": "Nedre grense"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV-video nedlasting"
+   },
+   "manifest_description": {
+      "message": "Last ned alle typer videoer på nettet, inkludert HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video nedlasting(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Medlemssenter"
+   },
+   "merging_data": {
+      "message": "Slår sammen data ..."
+   },
+   "merging_data_error": {
+      "message": "Datasammenslåingsfeil!"
+   },
+   "merging_videos": {
+      "message": "Kombinerer videoer..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Hvis den gjeldende videoen har en valgfri oppløsning, sørg for å velge en fast oppløsning i stedet for automatisk, ellers i tilfelle dårlige nettverksforhold, automatisk oppløsningsbytte, vil den innspilte videoen deles opp i flere klipp med forskjellige oppløsninger."
+   },
+   "modal_close": {
+      "message": "Lukk"
+   },
+   "modal_confirm": {
+      "message": "Bekrefte"
+   },
+   "modal_title": {
+      "message": "Tips"
+   },
+   "more_than_one_day": {
+      "message": "Mer enn en dag"
+   },
+   "network_error": {
+      "message": "Nettverksfeil!"
+   },
+   "no_cache": {
+      "message": "Det er ingen lokal bufret ennå!"
+   },
+   "no_resources": {
+      "message": "Ingen nedlastingsressurser"
+   },
+   "no_result": {
+      "message": "Ingen ressursfil funnet!"
+   },
+   "no_video": {
+      "message": "Video kan ikke tas opp, eller video eksisterer ikke!"
+   },
+   "normal_membership": {
+      "message": "Vanlig medlemskap"
+   },
+   "not_support": {
+      "message": "Denne siden støttes ikke"
+   },
+   "options": {
+      "message": "Alternativ"
+   },
+   "play": {
+      "message": "Spille"
+   },
+   "record_complete_clip": {
+      "message": "Fordi det er forskjellig oppløsning på data i strømmen, er videoen delt inn i segmenter."
+   },
+   "record_error_encryption": {
+      "message": "Videodata ser ut til å være opphavsrettsbeskyttet."
+   },
+   "recording_complete": {
+      "message": "Opptaket fullført!"
+   },
+   "recording_error": {
+      "message": "Opptaksfeil!"
+   },
+   "request_timed_out": {
+      "message": "Forespørselen ble tidsavbrutt!"
+   },
+   "reset": {
+      "message": "Nullstille"
+   },
+   "resources_list_empty": {
+      "message": "Ressurslisten er tom!"
+   },
+   "save": {
+      "message": "Lagre"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Servertilkobling mislyktes!"
+   },
+   "setting": {
+      "message": "Sett opp"
+   },
+   "setting_success": {
+      "message": "Setter suksess!"
+   },
+   "size": {
+      "message": "Størrelse"
+   },
+   "size_filter": {
+      "message": "Størrelsesfiltrering"
+   },
+   "size_filter_desc_1": {
+      "message": "Du kan få videoer i ideell størrelse med dette alternativet. For eksempel, hvis den laveste er 1024KB, vil videoer mindre enn 1024KB bli ignorert. Hvis den øvre er 1024KB, vil videoer større enn 1024KB bli ignorert. Hvis opsjonsverdien er 0, betyr det ingen grense."
+   },
+   "size_filter_desc_2": {
+      "message": "Enheten for dette alternativet er \"KB\". Hvis enheten du bruker er Bytes, MB og GB, må du gjøre tilsvarende konvertering. Her er konverteringsforholdet:"
+   },
+   "task_exists": {
+      "message": "Oppgaven finnes allerede!"
+   },
+   "task_status_stop": {
+      "message": "Oppgaven er på vent..."
+   },
+   "thunks_over_tips": {
+      "message": "For mange biter kan føre til at programprosessen mislykkes, vennligst lagre så snart som mulig og start et nytt opptak."
+   },
+   "timeout": {
+      "message": "Utløpstid:"
+   },
+   "unable_to_download": {
+      "message": "Ikke i stand til å laste ned!"
+   },
+   "unknown_mistake": {
+      "message": "Ukjent feil!"
+   },
+   "upgrade": {
+      "message": "Oppgradering"
+   },
+   "upgrade_renewal": {
+      "message": "Forny medlemskap"
+   },
+   "upper_limit": {
+      "message": "Øvre grense"
+   },
+   "user_type": {
+      "message": "Brukertype:"
+   },
+   "visitor": {
+      "message": "Besøkende"
+   },
+   "waiting_for_download": {
+      "message": "Venter på nedlasting..."
+   },
+   "webstore": {
+      "message": "butikk"
+   }
+}

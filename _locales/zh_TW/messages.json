@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "添加"
+   },
+   "advanced_membership": {
+      "message": "進階會員！"
+   },
+   "block": {
+      "message": "屏蔽所有來自此域名的文件"
+   },
+   "block_domain_count_limit": {
+      "message": "最多可以屏蔽30個域名"
+   },
+   "block_success": {
+      "message": "屏蔽成功! 可以通過後台設置移除此屏蔽"
+   },
+   "bottom_alert": {
+      "message": "有些視頻可能需要播放才能檢測到鏈接，如果列表中沒有你想要的視頻，可以嘗試播放。如果播放後依然無法取得鏈接，可嘗試刷新當前頁面，或者使用\u003Cb data-record=\"\" class=\"ms-1 btn btn-sm btn-dark\">錄製模式\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "緩存已刪除"
+   },
+   "cache_deleteing": {
+      "message": "緩存即將刪除："
+   },
+   "cannot_be_downloaded": {
+      "message": "數據為空，無法下載"
+   },
+   "chunks_count": {
+      "message": "分塊數量："
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "conversion_error": {
+      "message": "數據轉換錯誤!"
+   },
+   "copy": {
+      "message": "複製鏈接"
+   },
+   "copy_need_upgrade": {
+      "message": "需要升級為進階會員才可以復制"
+   },
+   "copy_success": {
+      "message": "已成功複製URL"
+   },
+   "current_user": {
+      "message": "當前用戶："
+   },
+   "delete": {
+      "message": "刪除"
+   },
+   "domain": {
+      "message": "域名"
+   },
+   "domain_blocking": {
+      "message": "域名屏蔽"
+   },
+   "domain_blocking_desc_1": {
+      "message": "來自於以下域名的文件將不會出現在下載列表中，不帶https://或http://，像這樣：www.example.com"
+   },
+   "download": {
+      "message": "下載"
+   },
+   "download_cached": {
+      "message": "下載當前已緩存的部份"
+   },
+   "failed_to_get_resource": {
+      "message": "獲取資源失敗！"
+   },
+   "file": {
+      "message": "文件"
+   },
+   "format_filter": {
+      "message": "格式過濾"
+   },
+   "format_filter_desc_1": {
+      "message": "在以下的擴展名列表中，禁用的擴展視頻類型在抓取時會被忽略。如果下面列表中有你不需要的視頻類型，你可以將它禁用。"
+   },
+   "help": {
+      "message": "幫助"
+   },
+   "hls": {
+      "message": "流媒體"
+   },
+   "home": {
+      "message": "主頁"
+   },
+   "hour": {
+      "message": "小時"
+   },
+   "loading": {
+      "message": "請稍待，正在加載..."
+   },
+   "loading_resources": {
+      "message": "資源加載中..."
+   },
+   "loading_resources_fail": {
+      "message": "資源加載失敗！"
+   },
+   "lower_limit": {
+      "message": "下限"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV影片下載擴充"
+   },
+   "manifest_description": {
+      "message": "下載和錄制各種格式的在線影片，包括HLS、m3u8、blob、mp4、webm等各種類型的視頻。"
+   },
+   "manifest_name": {
+      "message": "FetchV:網站影片下載工具(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "會員中心"
+   },
+   "merging_data": {
+      "message": "正在合併數據..."
+   },
+   "merging_data_error": {
+      "message": "數據合併出錯！"
+   },
+   "merging_videos": {
+      "message": "正在合併視頻中..."
+   },
+   "minute": {
+      "message": "分"
+   },
+   "modal_body": {
+      "message": "如果當前視頻有可選分辨率，請確保選擇固定的分辨率，而非自動，否則在網絡狀況不佳的情況下，分辨率自動切換會使錄製的視頻變成多個不同分辨率的片段。"
+   },
+   "modal_close": {
+      "message": "關閉"
+   },
+   "modal_confirm": {
+      "message": "確定"
+   },
+   "modal_title": {
+      "message": "提示"
+   },
+   "more_than_one_day": {
+      "message": "大於一天"
+   },
+   "network_error": {
+      "message": "網絡錯誤！"
+   },
+   "no_cache": {
+      "message": "本地還沒有緩存數據！"
+   },
+   "no_resources": {
+      "message": "無下載資源"
+   },
+   "no_result": {
+      "message": "沒有找到資源文件！"
+   },
+   "no_video": {
+      "message": "該頁面中的視頻無法錄製，或者不存在視頻！"
+   },
+   "normal_membership": {
+      "message": "普通用戶！"
+   },
+   "not_support": {
+      "message": "插件不支持該網站"
+   },
+   "options": {
+      "message": "操作"
+   },
+   "play": {
+      "message": "播放"
+   },
+   "record_complete_clip": {
+      "message": "因為流中有不同分辨率的數據，所以視頻被分割成段。"
+   },
+   "record_error_encryption": {
+      "message": "視頻數據似乎受版權保護。"
+   },
+   "recording_complete": {
+      "message": "錄製已完成！"
+   },
+   "recording_error": {
+      "message": "錄製出錯！"
+   },
+   "request_timed_out": {
+      "message": "請求超時！"
+   },
+   "reset": {
+      "message": "重置"
+   },
+   "resources_list_empty": {
+      "message": "資源列表為空！"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "second": {
+      "message": "秒"
+   },
+   "server_connection_failed": {
+      "message": "服務器連接失敗!"
+   },
+   "setting": {
+      "message": "設置"
+   },
+   "setting_success": {
+      "message": "設置保存成功！"
+   },
+   "size": {
+      "message": "大小"
+   },
+   "size_filter": {
+      "message": "大小過濾"
+   },
+   "size_filter_desc_1": {
+      "message": "你可以通過此選項讓插件自動為你篩選出符合期望大小的視頻，比如下限設置為1024KB，小於1024KB的視頻會被忽略，如果設置上限為1024KB，大於1024KB的視頻會被忽略。如果選項值設置為0，則表示沒有限制。"
+   },
+   "size_filter_desc_2": {
+      "message": "該選項的單位是“KB”，如果你使用的單位是Bytes、MB、GB，則需要進行相應的換算，以下是換算關係："
+   },
+   "task_exists": {
+      "message": "任務已存在！"
+   },
+   "task_status_stop": {
+      "message": "任務暫停中..."
+   },
+   "thunks_over_tips": {
+      "message": "分塊數量過多可能導致程序無法處理，請盡快保存，然後開始新的錄製。"
+   },
+   "timeout": {
+      "message": "到期時間："
+   },
+   "unable_to_download": {
+      "message": "無法下載！"
+   },
+   "unknown_mistake": {
+      "message": "未知錯誤！"
+   },
+   "upgrade": {
+      "message": "升級會員"
+   },
+   "upgrade_renewal": {
+      "message": "升級或續費會員"
+   },
+   "upper_limit": {
+      "message": "上限"
+   },
+   "user_type": {
+      "message": "用戶類型："
+   },
+   "visitor": {
+      "message": "訪客"
+   },
+   "waiting_for_download": {
+      "message": "等待下載..."
+   },
+   "webstore": {
+      "message": "應用商店"
+   }
+}

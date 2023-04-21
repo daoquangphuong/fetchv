@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Toevoegen"
+   },
+   "advanced_membership": {
+      "message": "Geavanceerd lidmaatschap"
+   },
+   "block": {
+      "message": "Alle video's van dit domein blokkeren"
+   },
+   "block_domain_count_limit": {
+      "message": "U kunt maximaal 30 domeinen blokkeren."
+   },
+   "block_success": {
+      "message": "Geblokkeerd gelukt! Je kunt het verwijderen in de instellingen."
+   },
+   "bottom_alert": {
+      "message": "Sommige video's moeten mogelijk worden afgespeeld om links te detecteren, dus probeer ze af te spelen. Als je de link na het spelen nog steeds niet kunt krijgen, probeer dan de pagina te vernieuwen, of download hem met\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Opnamemodus:\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "cache verwijderd"
+   },
+   "cache_deleteing": {
+      "message": "Cache wordt verwijderd:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Gegevens zijn leeg, kunnen niet worden gedownload"
+   },
+   "chunks_count": {
+      "message": "Brokken tellen:"
+   },
+   "close": {
+      "message": "Dichtbij"
+   },
+   "conversion_error": {
+      "message": "Conversiefout!"
+   },
+   "copy": {
+      "message": "Kopiëren"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopiëren verboden omdat je geen geavanceerd lidmaatschap bent"
+   },
+   "copy_success": {
+      "message": "Succesvol gekopieerd."
+   },
+   "current_user": {
+      "message": "Actieve gebruiker："
+   },
+   "delete": {
+      "message": "Verwijderen"
+   },
+   "domain": {
+      "message": "Domein"
+   },
+   "domain_blocking": {
+      "message": "Domein afscherming"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Bestanden van de volgende domeinnaam verschijnen niet in de downloadlijst. Zonder https:// of http://, zoals dit: www.example.com"
+   },
+   "download": {
+      "message": "Downloaden"
+   },
+   "download_cached": {
+      "message": "Gecacht gedeelte downloaden"
+   },
+   "failed_to_get_resource": {
+      "message": "Kan bron niet ophalen!"
+   },
+   "file": {
+      "message": "Bestanden"
+   },
+   "format_filter": {
+      "message": "Formaatfiltering"
+   },
+   "format_filter_desc_1": {
+      "message": "In de volgende lijst worden de uitgeschakelde uitgebreide videotypes genegeerd bij het grijpen. Als er een videotype in de onderstaande lijst staat dat je niet nodig hebt, kun je dit uitschakelen."
+   },
+   "help": {
+      "message": "Helpen"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Huis"
+   },
+   "hour": {
+      "message": "uur"
+   },
+   "loading": {
+      "message": "Bezig met laden..."
+   },
+   "loading_resources": {
+      "message": "Bronnen laden..."
+   },
+   "loading_resources_fail": {
+      "message": "Het laden van bronnen is mislukt!"
+   },
+   "lower_limit": {
+      "message": "Ondergrens"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV-video downloaden"
+   },
+   "manifest_description": {
+      "message": "Download allerlei soorten video's online, inclusief HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video downloaden(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Ledencentrum"
+   },
+   "merging_data": {
+      "message": "Gegevens samenvoegen..."
+   },
+   "merging_data_error": {
+      "message": "Fout bij het samenvoegen van gegevens!"
+   },
+   "merging_videos": {
+      "message": "Video's combineren..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Als de huidige video een optionele resolutie heeft, zorg er dan voor dat u een vaste resolutie selecteert in plaats van automatisch, anders wordt de opgenomen video in het geval van slechte netwerkomstandigheden, automatische resolutiewisseling, opgesplitst in meerdere clips met verschillende resoluties."
+   },
+   "modal_close": {
+      "message": "Dichtbij"
+   },
+   "modal_confirm": {
+      "message": "Bevestigen"
+   },
+   "modal_title": {
+      "message": "Tips"
+   },
+   "more_than_one_day": {
+      "message": "Meer dan een dag"
+   },
+   "network_error": {
+      "message": "Netwerkfout!"
+   },
+   "no_cache": {
+      "message": "Er is nog geen lokale cache!"
+   },
+   "no_resources": {
+      "message": "Geen downloadbronnen"
+   },
+   "no_result": {
+      "message": "Geen bronbestand gevonden!"
+   },
+   "no_video": {
+      "message": "Video kan niet worden opgenomen, of video bestaat niet!"
+   },
+   "normal_membership": {
+      "message": "Normaal lidmaatschap"
+   },
+   "not_support": {
+      "message": "Deze site wordt niet ondersteund"
+   },
+   "options": {
+      "message": "Keuze"
+   },
+   "play": {
+      "message": "Toneelstuk"
+   },
+   "record_complete_clip": {
+      "message": "Omdat er verschillende resoluties van gegevens in de stream zijn, wordt de video opgesplitst in segmenten."
+   },
+   "record_error_encryption": {
+      "message": "Videogegevens lijken auteursrechtelijk beschermd."
+   },
+   "recording_complete": {
+      "message": "Opname voltooid!"
+   },
+   "recording_error": {
+      "message": "Opname fout!"
+   },
+   "request_timed_out": {
+      "message": "Verzoek time-out!"
+   },
+   "reset": {
+      "message": "Resetten"
+   },
+   "resources_list_empty": {
+      "message": "De bronnenlijst is leeg!"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Serververbinding mislukt!"
+   },
+   "setting": {
+      "message": "Opgericht"
+   },
+   "setting_success": {
+      "message": "Succes instellen!"
+   },
+   "size": {
+      "message": "Maat"
+   },
+   "size_filter": {
+      "message": "Grootte filteren"
+   },
+   "size_filter_desc_1": {
+      "message": "Met deze optie kunt u video's in het ideale formaat krijgen. Als de laagste bijvoorbeeld 1024 KB is, worden video's kleiner dan 1024 KB genegeerd. Als de bovenste 1024 KB is, worden video's die groter zijn dan 1024 KB genegeerd. Als de optiewaarde 0 is, betekent dit geen limiet."
+   },
+   "size_filter_desc_2": {
+      "message": "De eenheid van deze optie is \"KB\". Als de eenheid die u gebruikt Bytes, MB en GB is, moet u de overeenkomstige conversie uitvoeren. Hier is de conversierelatie:"
+   },
+   "task_exists": {
+      "message": "Taak bestaat al!"
+   },
+   "task_status_stop": {
+      "message": "Taak staat stil..."
+   },
+   "thunks_over_tips": {
+      "message": "Door te veel chunks kan het programmaproces mislukken. Sla dit alstublieft zo snel mogelijk op en start een nieuwe opname."
+   },
+   "timeout": {
+      "message": "Vervaltijd:"
+   },
+   "unable_to_download": {
+      "message": "Kan niet downloaden!"
+   },
+   "unknown_mistake": {
+      "message": "Onbekende fout!"
+   },
+   "upgrade": {
+      "message": "Upgrade"
+   },
+   "upgrade_renewal": {
+      "message": "Lidmaatschap verlengen"
+   },
+   "upper_limit": {
+      "message": "Bovengrens"
+   },
+   "user_type": {
+      "message": "Gebruikerstype:"
+   },
+   "visitor": {
+      "message": "Bezoeker"
+   },
+   "waiting_for_download": {
+      "message": "Wachten op downloaden..."
+   },
+   "webstore": {
+      "message": "Op te slaan"
+   }
+}

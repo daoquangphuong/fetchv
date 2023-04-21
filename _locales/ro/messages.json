@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Adăuga"
+   },
+   "advanced_membership": {
+      "message": "Abonament avansat"
+   },
+   "block": {
+      "message": "Blocați toate videoclipurile de pe acest domeniu"
+   },
+   "block_domain_count_limit": {
+      "message": "Puteți bloca până la 30 de domenii."
+   },
+   "block_success": {
+      "message": "Blocat reușit! Îl poți elimina din setări."
+   },
+   "bottom_alert": {
+      "message": "Este posibil ca unele videoclipuri să fie redate pentru a detecta legăturile, așa că încercați să le redați. Dacă tot nu puteți obține linkul după ce ați jucat, încercați să reîmprospătați pagina sau obțineți-l cu\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Modul de înregistrare\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Cache-ul a fost șters"
+   },
+   "cache_deleteing": {
+      "message": "Cache-ul va fi ștears:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Datele sunt goale, nu pot fi descărcate"
+   },
+   "chunks_count": {
+      "message": "Număr de bucăți:"
+   },
+   "close": {
+      "message": "Închide"
+   },
+   "conversion_error": {
+      "message": "Eroare de conversie!"
+   },
+   "copy": {
+      "message": "Copie"
+   },
+   "copy_need_upgrade": {
+      "message": "Copiat interzis deoarece nu sunteți membru avansat"
+   },
+   "copy_success": {
+      "message": "Copiat cu succes."
+   },
+   "current_user": {
+      "message": "Utilizator activ:"
+   },
+   "delete": {
+      "message": "Șterge"
+   },
+   "domain": {
+      "message": "Domeniu"
+   },
+   "domain_blocking": {
+      "message": "Protejarea domeniului"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Fișierele de la următorul nume de domeniu nu vor apărea în lista de descărcare. Fără https:// sau http://, așa: www.example.com"
+   },
+   "download": {
+      "message": "Descarca"
+   },
+   "download_cached": {
+      "message": "Descărcați partea stocată în cache"
+   },
+   "failed_to_get_resource": {
+      "message": "Nu s-a putut obține resursa!"
+   },
+   "file": {
+      "message": "Fișiere"
+   },
+   "format_filter": {
+      "message": "Filtrarea formatului"
+   },
+   "format_filter_desc_1": {
+      "message": "În următoarea listă, tipurile de videoclipuri extinse dezactivate vor fi ignorate la capturare. Dacă în lista de mai jos există un tip de videoclip de care nu aveți nevoie, îl puteți dezactiva."
+   },
+   "help": {
+      "message": "Ajutor"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Acasă"
+   },
+   "hour": {
+      "message": "ora"
+   },
+   "loading": {
+      "message": "Se încarcă..."
+   },
+   "loading_resources": {
+      "message": "Se încarcă resurse..."
+   },
+   "loading_resources_fail": {
+      "message": "Încărcarea resurselor a eșuat!"
+   },
+   "lower_limit": {
+      "message": "Limita inferioara"
+   },
+   "manifest_browser_action": {
+      "message": "Descărcare video FetchV"
+   },
+   "manifest_description": {
+      "message": "Descărcați tot felul de videoclipuri online, inclusiv HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Descărcare video downloader(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Centrul pentru membri"
+   },
+   "merging_data": {
+      "message": "Se îmbină datele..."
+   },
+   "merging_data_error": {
+      "message": "Eroare de îmbinare a datelor!"
+   },
+   "merging_videos": {
+      "message": "Se combină videoclipuri..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Dacă videoclipul curent are o rezoluție opțională, asigurați-vă că selectați o rezoluție fixă ​​în loc de automată, altfel, în cazul condițiilor slabe de rețea, comutare automată a rezoluției, videoclipul înregistrat va fi împărțit în mai multe clipuri cu rezoluții diferite."
+   },
+   "modal_close": {
+      "message": "Închide"
+   },
+   "modal_confirm": {
+      "message": "A confirma"
+   },
+   "modal_title": {
+      "message": "sfaturi"
+   },
+   "more_than_one_day": {
+      "message": "Mai mult de o zi"
+   },
+   "network_error": {
+      "message": "Eroare de rețea!"
+   },
+   "no_cache": {
+      "message": "Nu există încă un cache local!"
+   },
+   "no_resources": {
+      "message": "Fără resurse de descărcare"
+   },
+   "no_result": {
+      "message": "Nu a fost găsit niciun fișier de resurse!"
+   },
+   "no_video": {
+      "message": "Videoclipul nu poate fi înregistrat sau videoclipul nu există!"
+   },
+   "normal_membership": {
+      "message": "Membru normal"
+   },
+   "not_support": {
+      "message": "Acest site nu este acceptat"
+   },
+   "options": {
+      "message": "Opțiune"
+   },
+   "play": {
+      "message": "Joaca"
+   },
+   "record_complete_clip": {
+      "message": "Deoarece există rezoluții diferite de date în flux, videoclipul este împărțit în segmente."
+   },
+   "record_error_encryption": {
+      "message": "Datele video par să fie protejate prin drepturi de autor."
+   },
+   "recording_complete": {
+      "message": "Înregistrare finalizată!"
+   },
+   "recording_error": {
+      "message": "Eroare de înregistrare!"
+   },
+   "request_timed_out": {
+      "message": "Cererea a expirat!"
+   },
+   "reset": {
+      "message": "Resetează"
+   },
+   "resources_list_empty": {
+      "message": "Lista de resurse este goală!"
+   },
+   "save": {
+      "message": "Salvați"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Conexiunea la server a eșuat!"
+   },
+   "setting": {
+      "message": "Înființat"
+   },
+   "setting_success": {
+      "message": "Stabilirea succesului!"
+   },
+   "size": {
+      "message": "mărimea"
+   },
+   "size_filter": {
+      "message": "Filtrarea dimensiunii"
+   },
+   "size_filter_desc_1": {
+      "message": "Puteți obține videoclipuri la dimensiunea ideală cu această opțiune. De exemplu, dacă cel mai mic este de 1024 KB, videoclipurile mai mici de 1024 KB vor fi ignorate. Dacă valoarea superioară este de 1024 KB, videoclipurile mai mari de 1024 KB vor fi ignorate. Dacă valoarea opțiunii este 0, înseamnă că nu există limită."
+   },
+   "size_filter_desc_2": {
+      "message": "Unitatea acestei opțiuni este „KB”. Dacă unitatea pe care o utilizați este octeți, MB și GB, trebuie să faceți conversia corespunzătoare. Iată relația de conversie:"
+   },
+   "task_exists": {
+      "message": "Sarcina există deja!"
+   },
+   "task_status_stop": {
+      "message": "Sarcina este în așteptare..."
+   },
+   "thunks_over_tips": {
+      "message": "Prea multe bucăți pot duce la eșecul procesului programului, salvați cât mai curând posibil și începeți o nouă înregistrare."
+   },
+   "timeout": {
+      "message": "Data expirarii:"
+   },
+   "unable_to_download": {
+      "message": "Nu se poate descarca!"
+   },
+   "unknown_mistake": {
+      "message": "Greșeală necunoscută!"
+   },
+   "upgrade": {
+      "message": "Modernizare"
+   },
+   "upgrade_renewal": {
+      "message": "Reînnoiește calitatea de membru"
+   },
+   "upper_limit": {
+      "message": "Limita superioară"
+   },
+   "user_type": {
+      "message": "Tip de utilizator:"
+   },
+   "visitor": {
+      "message": "Vizitator"
+   },
+   "waiting_for_download": {
+      "message": "Se așteaptă descărcarea..."
+   },
+   "webstore": {
+      "message": "Magazin"
+   }
+}

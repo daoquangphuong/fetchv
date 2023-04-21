@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "cộng"
+   },
+   "advanced_membership": {
+      "message": "Thành viên nâng cao"
+   },
+   "block": {
+      "message": "Chặn tất cả video từ miền này"
+   },
+   "block_domain_count_limit": {
+      "message": "Bạn có thể chặn tối đa 30 miền."
+   },
+   "block_success": {
+      "message": "Đã chặn thành công! Bạn có thể xóa nó trong cài đặt."
+   },
+   "bottom_alert": {
+      "message": "Có thể cần phát một số video để phát hiện liên kết, vì vậy hãy thử phát chúng. Nếu vẫn không thể nhận được liên kết sau khi chơi, hãy thử làm mới trang hoặc lấy bằng\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Chế độ ghi âm\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Đã xóa bộ nhớ đệm"
+   },
+   "cache_deleteing": {
+      "message": "Bộ nhớ đệm sẽ bị xóa:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Dữ liệu trống, không thể tải xuống"
+   },
+   "chunks_count": {
+      "message": "Số lượng chun:"
+   },
+   "close": {
+      "message": "Đóng"
+   },
+   "conversion_error": {
+      "message": "Lỗi chuyển đổi!"
+   },
+   "copy": {
+      "message": "Sao chép"
+   },
+   "copy_need_upgrade": {
+      "message": "Sao chép bị cấm vì bạn không phải là thành viên nâng cao"
+   },
+   "copy_success": {
+      "message": "Đã sao chép thành công."
+   },
+   "current_user": {
+      "message": "Người dùng đang hoạt động ："
+   },
+   "delete": {
+      "message": "Xóa bỏ"
+   },
+   "domain": {
+      "message": "Miền"
+   },
+   "domain_blocking": {
+      "message": "Bảo vệ miền"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Các tệp từ tên miền sau sẽ không xuất hiện trong danh sách tải xuống. Không có https: // hoặc http: //, như sau: www.example.com"
+   },
+   "download": {
+      "message": "Tải xuống"
+   },
+   "download_cached": {
+      "message": "Tải xuống phần đã lưu trong bộ nhớ cache"
+   },
+   "failed_to_get_resource": {
+      "message": "Không lấy được tài nguyên!"
+   },
+   "file": {
+      "message": "Các tập tin"
+   },
+   "format_filter": {
+      "message": "Định dạng lọc"
+   },
+   "format_filter_desc_1": {
+      "message": "Trong danh sách sau, các loại video mở rộng bị vô hiệu hóa sẽ bị bỏ qua khi lấy. Nếu có loại video trong danh sách dưới đây mà bạn không cần, bạn có thể tắt loại video đó."
+   },
+   "help": {
+      "message": "Cứu giúp"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Nhà"
+   },
+   "hour": {
+      "message": "giờ"
+   },
+   "loading": {
+      "message": "Đang tải..."
+   },
+   "loading_resources": {
+      "message": "Đang tải tài nguyên ..."
+   },
+   "loading_resources_fail": {
+      "message": "Tải tài nguyên không thành công!"
+   },
+   "lower_limit": {
+      "message": "Giơi hạn dươi"
+   },
+   "manifest_browser_action": {
+      "message": "Trình tải xuống video cho FetchV"
+   },
+   "manifest_description": {
+      "message": "Tải xuống tất cả các loại video trực tuyến, bao gồm HLS, m3u8, blob, mp4, webm ..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Trình tải xuống video cho(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Trung tâm thành viên"
+   },
+   "merging_data": {
+      "message": "Hợp nhất dữ liệu ..."
+   },
+   "merging_data_error": {
+      "message": "Lỗi hợp nhất dữ liệu!"
+   },
+   "merging_videos": {
+      "message": "Tổng hợp các video ..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Nếu video hiện tại có độ phân giải tùy chọn, hãy đảm bảo chọn độ phân giải cố định thay vì tự động, nếu không trong trường hợp điều kiện mạng kém, chuyển đổi độ phân giải tự động, video đã quay sẽ được chia thành nhiều clip có độ phân giải khác nhau."
+   },
+   "modal_close": {
+      "message": "Đóng"
+   },
+   "modal_confirm": {
+      "message": "Xác nhận"
+   },
+   "modal_title": {
+      "message": "Lời khuyên"
+   },
+   "more_than_one_day": {
+      "message": "Hơn một ngày"
+   },
+   "network_error": {
+      "message": "Lỗi mạng!"
+   },
+   "no_cache": {
+      "message": "Không có bộ nhớ cache cục bộ nào được nêu ra!"
+   },
+   "no_resources": {
+      "message": "Không có tài nguyên tải xuống"
+   },
+   "no_result": {
+      "message": "Không tìm thấy tệp tài nguyên nào!"
+   },
+   "no_video": {
+      "message": "Không thể quay video, hoặc video không tồn tại!"
+   },
+   "normal_membership": {
+      "message": "Thành viên bình thường"
+   },
+   "not_support": {
+      "message": "Trang web này không được hỗ trợ"
+   },
+   "options": {
+      "message": "Quyền mua"
+   },
+   "play": {
+      "message": "Chơi"
+   },
+   "record_complete_clip": {
+      "message": "Do dữ liệu trong luồng có độ phân giải khác nhau nên video được chia thành các phân đoạn."
+   },
+   "record_error_encryption": {
+      "message": "Dữ liệu video dường như có bản quyền."
+   },
+   "recording_complete": {
+      "message": "Quá trình ghi đã hoàn tất!"
+   },
+   "recording_error": {
+      "message": "Ghi lỗi!"
+   },
+   "request_timed_out": {
+      "message": "Yêu cầu đã hết thời gian chờ!"
+   },
+   "reset": {
+      "message": "Cài lại"
+   },
+   "resources_list_empty": {
+      "message": "Danh sách tài nguyên trống!"
+   },
+   "save": {
+      "message": "Tiết kiệm"
+   },
+   "second": {
+      "message": "S"
+   },
+   "server_connection_failed": {
+      "message": "Kết nối máy chủ không thành công!"
+   },
+   "setting": {
+      "message": "Cài đặt"
+   },
+   "setting_success": {
+      "message": "Thiết lập thành công!"
+   },
+   "size": {
+      "message": "Kích thước"
+   },
+   "size_filter": {
+      "message": "Lọc kích thước"
+   },
+   "size_filter_desc_1": {
+      "message": "Bạn có thể tải video ở kích thước lý tưởng với tùy chọn này. Ví dụ: nếu giá trị thấp hơn là 1024KB, các video nhỏ hơn 1024KB sẽ bị bỏ qua. Nếu giá trị trên là 1024KB, các video lớn hơn 1024KB sẽ bị bỏ qua. Nếu giá trị tùy chọn là 0, có nghĩa là không có giới hạn."
+   },
+   "size_filter_desc_2": {
+      "message": "Đơn vị của tùy chọn này là \"KB\". Nếu đơn vị bạn sử dụng là Byte, MB và GB thì bạn cần thực hiện chuyển đổi tương ứng. Đây là mối quan hệ chuyển đổi:"
+   },
+   "task_exists": {
+      "message": "Tác vụ đã tồn tại!"
+   },
+   "task_status_stop": {
+      "message": "Công việc đang bị tạm dừng ..."
+   },
+   "thunks_over_tips": {
+      "message": "Quá nhiều đoạn có thể khiến quá trình chương trình không thành công, vui lòng lưu càng sớm càng tốt và bắt đầu ghi mới."
+   },
+   "timeout": {
+      "message": "Thời gian hết hạn:"
+   },
+   "unable_to_download": {
+      "message": "Không thể tải xuống!"
+   },
+   "unknown_mistake": {
+      "message": "Sai lầm không rõ!"
+   },
+   "upgrade": {
+      "message": "Nâng cấp"
+   },
+   "upgrade_renewal": {
+      "message": "Lam mơi tinh đông đội"
+   },
+   "upper_limit": {
+      "message": "Giới hạn trên"
+   },
+   "user_type": {
+      "message": "Loại người dùng:"
+   },
+   "visitor": {
+      "message": "Khách thăm quan"
+   },
+   "waiting_for_download": {
+      "message": "Đang chờ tải xuống ..."
+   },
+   "webstore": {
+      "message": "Cửa hàng"
+   }
+}

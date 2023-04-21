@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Lisama"
+   },
+   "advanced_membership": {
+      "message": "Täiustatud liikmesus"
+   },
+   "block": {
+      "message": "Blokeeri kõik selle domeeni videod"
+   },
+   "block_domain_count_limit": {
+      "message": "Saate blokeerida kuni 30 domeeni."
+   },
+   "block_success": {
+      "message": "Blokeerimine õnnestus! Saate selle seadetes eemaldada."
+   },
+   "bottom_alert": {
+      "message": "Mõnda videot võib olla vaja linkide tuvastamiseks esitada, seega proovige neid esitada. Kui pärast mängimist linki ikka ei saa, proovige lehte värskendada või hankige see\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Salvestusrežiim\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Vahemälu kustutatud"
+   },
+   "cache_deleteing": {
+      "message": "Vahemälu kustutatakse:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Andmed on tühjad, neid ei saa alla laadida"
+   },
+   "chunks_count": {
+      "message": "Tükkide arv:"
+   },
+   "close": {
+      "message": "Sulge"
+   },
+   "conversion_error": {
+      "message": "Konversiooniviga!"
+   },
+   "copy": {
+      "message": "Kopeeri"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopeerimine on keelatud, kuna te pole edasijõudnute liikmesus"
+   },
+   "copy_success": {
+      "message": "Kopeerimine õnnestus."
+   },
+   "current_user": {
+      "message": "Aktiivne kasutaja:"
+   },
+   "delete": {
+      "message": "Kustuta"
+   },
+   "domain": {
+      "message": "Domeen"
+   },
+   "domain_blocking": {
+      "message": "Domeeni varjestus"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Järgmise domeeninime faile allalaadimisloendis ei kuvata. Ilma https:// või http://ta, näiteks: www.example.com"
+   },
+   "download": {
+      "message": "Lae alla"
+   },
+   "download_cached": {
+      "message": "Laadige alla vahemällu salvestatud osa"
+   },
+   "failed_to_get_resource": {
+      "message": "Ressursi hankimine ebaõnnestus!"
+   },
+   "file": {
+      "message": "Failid"
+   },
+   "format_filter": {
+      "message": "Vormingu filtreerimine"
+   },
+   "format_filter_desc_1": {
+      "message": "Järgmises loendis eiratakse keelatud laiendatud videotüüpe haaramisel. Kui allolevas loendis on videotüüp, mida te ei vaja, saate selle keelata."
+   },
+   "help": {
+      "message": "Abi"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Kodu"
+   },
+   "hour": {
+      "message": "tund"
+   },
+   "loading": {
+      "message": "Laadimine..."
+   },
+   "loading_resources": {
+      "message": "Ressursi laadimine..."
+   },
+   "loading_resources_fail": {
+      "message": "Ressursi laadimine ebaõnnestus!"
+   },
+   "lower_limit": {
+      "message": "Madalam limiit"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV video allalaadija"
+   },
+   "manifest_description": {
+      "message": "Laadige võrgust alla igasuguseid videoid, sealhulgas HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video allalaadija(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Liikmete keskus"
+   },
+   "merging_data": {
+      "message": "Andmete ühendamine..."
+   },
+   "merging_data_error": {
+      "message": "Andmete ühendamise viga!"
+   },
+   "merging_videos": {
+      "message": "Videote kombineerimine..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Kui praegusel videol on valikuline eraldusvõime, valige automaatse asemel kindlasti fikseeritud eraldusvõime, vastasel juhul jagatakse kehvade võrgutingimuste ja automaatse eraldusvõime ümberlülitumise korral salvestatud video mitmeks erineva eraldusvõimega klipiks."
+   },
+   "modal_close": {
+      "message": "Sulge"
+   },
+   "modal_confirm": {
+      "message": "Kinnita"
+   },
+   "modal_title": {
+      "message": "Näpunäiteid"
+   },
+   "more_than_one_day": {
+      "message": "Rohkem kui päev"
+   },
+   "network_error": {
+      "message": "Võrgu viga!"
+   },
+   "no_cache": {
+      "message": "Kohalikku vahemällu pole veel salvestatud!"
+   },
+   "no_resources": {
+      "message": "Allalaadimisressursse pole"
+   },
+   "no_result": {
+      "message": "Ressursifaili ei leitud!"
+   },
+   "no_video": {
+      "message": "Videot ei saa salvestada või videot pole olemas!"
+   },
+   "normal_membership": {
+      "message": "Tavaline liikmelisus"
+   },
+   "not_support": {
+      "message": "Seda saiti ei toetata"
+   },
+   "options": {
+      "message": "Võimalus"
+   },
+   "play": {
+      "message": "Mängi"
+   },
+   "record_complete_clip": {
+      "message": "Kuna voos on erineva eraldusvõimega andmeid, jagatakse video segmentideks."
+   },
+   "record_error_encryption": {
+      "message": "Video andmed näivad olevat autoriõigustega kaitstud."
+   },
+   "recording_complete": {
+      "message": "Salvestus lõpetatud!"
+   },
+   "recording_error": {
+      "message": "Salvestusviga!"
+   },
+   "request_timed_out": {
+      "message": "Päring aegus!"
+   },
+   "reset": {
+      "message": "Lähtesta"
+   },
+   "resources_list_empty": {
+      "message": "Ressursiloend on tühi!"
+   },
+   "save": {
+      "message": "Salvesta"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Serveriühendus ebaõnnestus!"
+   },
+   "setting": {
+      "message": "Seadistage"
+   },
+   "setting_success": {
+      "message": "Edu seadmine!"
+   },
+   "size": {
+      "message": "Suurus"
+   },
+   "size_filter": {
+      "message": "Suuruse filtreerimine"
+   },
+   "size_filter_desc_1": {
+      "message": "Selle valikuga saate videoid ideaalses suuruses. Näiteks kui väiksem on 1024 KB, ignoreeritakse videoid, mis on väiksemad kui 1024 KB. Kui ülemine on 1024 KB, ignoreeritakse videoid, mis on suuremad kui 1024 KB. Kui valiku väärtus on 0, tähendab see, et piirangut pole."
+   },
+   "size_filter_desc_2": {
+      "message": "Selle valiku ühik on \"KB\". Kui ühikuks on bait, MB ja GB, tuleb teha vastav teisendus. Siin on teisendussuhe:"
+   },
+   "task_exists": {
+      "message": "Ülesanne on juba olemas!"
+   },
+   "task_status_stop": {
+      "message": "Ülesanne on ootel..."
+   },
+   "thunks_over_tips": {
+      "message": "Liiga palju tükke võib programmiprotsessi nurjuda. Salvestage niipea kui võimalik ja alustage uut salvestust."
+   },
+   "timeout": {
+      "message": "Aegumisaeg:"
+   },
+   "unable_to_download": {
+      "message": "Ei saa alla laadida!"
+   },
+   "unknown_mistake": {
+      "message": "Tundmatu viga!"
+   },
+   "upgrade": {
+      "message": "Uuendage"
+   },
+   "upgrade_renewal": {
+      "message": "Uuenda liikmelisust"
+   },
+   "upper_limit": {
+      "message": "Ülemine piir"
+   },
+   "user_type": {
+      "message": "Kasutaja tüüp:"
+   },
+   "visitor": {
+      "message": "Külastaja"
+   },
+   "waiting_for_download": {
+      "message": "Allalaadimise ootel..."
+   },
+   "webstore": {
+      "message": "Kauplus"
+   }
+}

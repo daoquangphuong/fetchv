@@ -1,0 +1,254 @@
+{
+   "add": {
+      "message": "Add"
+   },
+   "advanced_membership": {
+      "message": "Advanced membership"
+   },
+   "block": {
+      "message": "Block all videos from this domain"
+   },
+   "block_domain_count_limit": {
+      "message": "You can block up to 30 domains."
+   },
+   "block_success": {
+      "message": "Blocked succeeded! You can remove it in settings."
+   },
+   "bottom_alert": {
+      "message": "Some videos may need to be played to detect links, so try playing them. If still can't get the link after playing, try refreshing the page, or get it with \u003Cb data-record class='btn btn-sm btn-dark'>Recording mode\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Cache deleted"
+   },
+   "cache_deleteing": {
+      "message": "Cache will be deleted:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Data is empty, cannot be downloaded"
+   },
+   "chunks_count": {
+      "message": "Chunks count:"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "conversion_error": {
+      "message": "Conversion error!"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "copy_need_upgrade": {
+      "message": "Copied forbidden because you are not advanced membership"
+   },
+   "copy_success": {
+      "message": "Copied successfully."
+   },
+   "current_user": {
+      "message": "Active user："
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "domain_blocking": {
+      "message": "Domain shielding"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Files from the following domain name will not appear in the download list. Without https:// or http://, like this: www.example.com"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_cached": {
+      "message": "Download cached part"
+   },
+   "failed_to_get_resource": {
+      "message": "Failed to get resource!"
+   },
+   "file": {
+      "message": "Files"
+   },
+   "format_filter": {
+      "message": "Format filtering"
+   },
+   "format_filter_desc_1": {
+      "message": "In the following list, the disabled extended video types will be ignored when grabbing. If there is a video type in the list below that you don't need, you can disable it."
+   },
+   "help": {
+      "message": "Help"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Home"
+   },
+   "hour": {
+      "message": "hour"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "loading_resources": {
+      "message": "Resource loading..."
+   },
+   "loading_resources_fail": {
+      "message": "Resource load failed!"
+   },
+   "lower_limit": {
+      "message": "Lower limit"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV video downloader"
+   },
+   "manifest_description": {
+      "message": "Download or record all kinds of video online, includes HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video downloader(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Member Centre"
+   },
+   "merging_data": {
+      "message": "Merging data..."
+   },
+   "merging_data_error": {
+      "message": "Data merge error!"
+   },
+   "merging_videos": {
+      "message": "Combining videos..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "If the current video has an optional resolution, please make sure to select a fixed resolution instead of automatic, otherwise in the case of poor network conditions, automatic resolution switching, the recorded video will be splited into multiple clips of different resolutions."
+   },
+   "modal_close": {
+      "message": "Close"
+   },
+   "modal_confirm": {
+      "message": "Confirm"
+   },
+   "modal_title": {
+      "message": "Tips"
+   },
+   "more_than_one_day": {
+      "message": "More than a day"
+   },
+   "network_error": {
+      "message": "Network Error!"
+   },
+   "no_cache": {
+      "message": "There is no local cached yet!"
+   },
+   "no_resources": {
+      "message": "No download resources"
+   },
+   "no_result": {
+      "message": "No resource file found!"
+   },
+   "no_video": {
+      "message": "Video cannot be recorded, or video does not exist!"
+   },
+   "normal_membership": {
+      "message": "Normal membership"
+   },
+   "not_support": {
+      "message": "This site is not supported"
+   },
+   "options": {
+      "message": "Option"
+   },
+   "play": {
+      "message": "Play"
+   },
+   "record_complete_clip": {
+      "message": "Because there are different resolution of data in the stream, the video is split into segments."
+   },
+   "record_error_encryption": {
+      "message": "Video data appears to be copyrighted."
+   },
+   "recording_complete": {
+      "message": "Recording completed!"
+   },
+   "recording_error": {
+      "message": "Recording error!"
+   },
+   "request_timed_out": {
+      "message": "Request timed out!"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "resources_list_empty": {
+      "message": "The resource list is empty!"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "second": {
+      "message": "s"
+   },
+   "setting": {
+      "message": "Set up"
+   },
+   "setting_success": {
+      "message": "Setting success!"
+   },
+   "size": {
+      "message": "Size"
+   },
+   "size_filter": {
+      "message": "Size filtering"
+   },
+   "size_filter_desc_1": {
+      "message": "You can get videos in ideal size with this option. For example, if the lower is 1024KB, videos smaller than 1024KB will be ignored. If the upper is 1024KB, videos larger than 1024KB will be ignored. If the option value is 0, it means no limit."
+   },
+   "size_filter_desc_2": {
+      "message": "The unit of this option is \"KB\". If the unit you use is Bytes, MB and GB, you need to make corresponding conversion. Here is the conversion relationship:"
+   },
+   "task_exists": {
+      "message": "Task already exists!"
+   },
+   "task_status_stop": {
+      "message": "Task is on hold..."
+   },
+   "thunks_over_tips": {
+      "message": "Too many chunks may cause the program process fail, please save as soon as possible and start a new recording."
+   },
+   "timeout": {
+      "message": "Expiration time:"
+   },
+   "unable_to_download": {
+      "message": "Unable to download!"
+   },
+   "unknown_mistake": {
+      "message": "Unknown mistake!"
+   },
+   "upgrade": {
+      "message": "Upgrade"
+   },
+   "upgrade_renewal": {
+      "message": "Renew membership"
+   },
+   "upper_limit": {
+      "message": "Upper limit"
+   },
+   "user_type": {
+      "message": "User type:"
+   },
+   "visitor": {
+      "message": "Visitor"
+   },
+   "waiting_for_download": {
+      "message": "Waiting for download..."
+   },
+   "webstore": {
+      "message": "Store"
+   }
+}

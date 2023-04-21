@@ -1,0 +1,55 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "img/icon-128.png",
+         "16": "img/icon-16.png",
+         "48": "img/icon-48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_manifest_browser_action__"
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "content_scripts": [ {
+      "js": [ "libs/jquery-3.6.0.min.js", "libs/mux.video.min.js", "js/videodownloader.js" ],
+      "matches": [ "*://fetchv.net/videodownloader", "*://fetchv.net/*/videodownloader" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "libs/jquery-3.6.0.min.js", "libs/hls.1.1.2.branch.min.js", "libs/mux.m3u8.min.js", "js/m3u8downloader.js" ],
+      "matches": [ "*://fetchv.net/m3u8downloader", "*://fetchv.net/*/m3u8downloader" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "libs/jquery-3.6.0.min.js", "libs/mux.buffer.min.js", "js/bufferrecorder.js" ],
+      "matches": [ "*://fetchv.net/bufferrecorder", "*://fetchv.net/*/bufferrecorder" ],
+      "run_at": "document_end"
+   }, {
+      "exclude_globs": [ "*//fetchv.net/*" ],
+      "js": [ "js/content-script.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start",
+      "all_frames": true
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_manifest_description__",
+   "homepage_url": "https://fetchv.net/",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnOpctyC0RXQsExny1hjqLOglF4jI1P+cASmzO39c8hLnr2m1of1Sbn17CHx5hUC9JV8rT27YK/3YjW8DWGO3OjUTi1/NMiMFnWs9oKb3amnMY+ptANvfF4nrjHT09R1d+hpSI+f3+Sh8Odl2X6QvoIdiSX5jOm5q8m5YnYrpVydvm+Pfel+WHoWduY+XCe/67hZP+M6QmWFEK8DGL7fuB0H1lEJmk//PgW+xk13KMJ9Q/FcXfHg0ZPje0IF8S6UoopBXF3P7nU20JAxK4i3S3TbFd4pz8jswubHl9NBJ9kmWUO9YX7B6wEH70LdhYW5gjhD3bTSIXWHsR1jbw5x/VwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_manifest_name__",
+   "options_page": "./options.html",
+   "permissions": [ "tabs", "webRequest", "storage" ],
+   "short_name": "FetchV",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "js/injected.js" ],
+      "use_dynamic_url": true
+   } ]
+}

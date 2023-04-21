@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Menambahkan"
+   },
+   "advanced_membership": {
+      "message": "Keanggotaan tingkat lanjut"
+   },
+   "block": {
+      "message": "Blokir semua video dari domain ini"
+   },
+   "block_domain_count_limit": {
+      "message": "Anda dapat memblokir hingga 30 domain."
+   },
+   "block_success": {
+      "message": "berhasil diblokir! Anda dapat menghapusnya di pengaturan."
+   },
+   "bottom_alert": {
+      "message": "Beberapa video mungkin perlu diputar untuk mendeteksi tautan, jadi coba putar. Jika masih tidak bisa mendapatkan tautan setelah diputar, coba segarkan halaman, atau dapatkan dengan\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Modus perekaman\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Tembolok dihapus"
+   },
+   "cache_deleteing": {
+      "message": "Tembolok akan dihapus:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Data kosong, tidak dapat diunduh"
+   },
+   "chunks_count": {
+      "message": "Jumlah potongan:"
+   },
+   "close": {
+      "message": "Menutup"
+   },
+   "conversion_error": {
+      "message": "Kesalahan konversi!"
+   },
+   "copy": {
+      "message": "Salinan"
+   },
+   "copy_need_upgrade": {
+      "message": "Dilarang menyalin karena Anda bukan keanggotaan lanjutan"
+   },
+   "copy_success": {
+      "message": "berhasil disalin."
+   },
+   "current_user": {
+      "message": "Pengguna aktif"
+   },
+   "delete": {
+      "message": "Menghapus"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "domain_blocking": {
+      "message": "Perisai domain"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Berkas dari nama domain berikut tidak akan muncul dalam daftar unduhan. Tanpa https:// atau http://, seperti ini: www.example.com"
+   },
+   "download": {
+      "message": "Unduh"
+   },
+   "download_cached": {
+      "message": "Unduh bagian yang di-cache"
+   },
+   "failed_to_get_resource": {
+      "message": "Gagal mendapatkan sumber daya!"
+   },
+   "file": {
+      "message": "File"
+   },
+   "format_filter": {
+      "message": "Pemfilteran format"
+   },
+   "format_filter_desc_1": {
+      "message": "Dalam daftar berikut, jenis video diperpanjang yang dinonaktifkan akan diabaikan saat mengambil. Jika ada jenis video dalam daftar di bawah ini yang tidak Anda butuhkan, Anda dapat menonaktifkannya."
+   },
+   "help": {
+      "message": "Membantu"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Rumah"
+   },
+   "hour": {
+      "message": "jam"
+   },
+   "loading": {
+      "message": "Memuat..."
+   },
+   "loading_resources": {
+      "message": "Pemuatan sumber daya..."
+   },
+   "loading_resources_fail": {
+      "message": "Pemuatan sumber daya gagal!"
+   },
+   "lower_limit": {
+      "message": "Batasan yang lebih rendah"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV Unduh Video"
+   },
+   "manifest_description": {
+      "message": "Unduh semua jenis video online, termasuk HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Pengunduh video(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Pusat Anggota"
+   },
+   "merging_data": {
+      "message": "Menggabungkan data..."
+   },
+   "merging_data_error": {
+      "message": "Kesalahan penggabungan data!"
+   },
+   "merging_videos": {
+      "message": "Menggabungkan video..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Jika video saat ini memiliki resolusi opsional, pastikan untuk memilih resolusi tetap, bukan otomatis, jika tidak, dalam kondisi jaringan yang buruk, pengalihan resolusi otomatis, video yang direkam akan dibagi menjadi beberapa klip dengan resolusi berbeda."
+   },
+   "modal_close": {
+      "message": "Menutup"
+   },
+   "modal_confirm": {
+      "message": "Mengonfirmasi"
+   },
+   "modal_title": {
+      "message": "Tips"
+   },
+   "more_than_one_day": {
+      "message": "Lebih dari sehari"
+   },
+   "network_error": {
+      "message": "Kesalahan Jaringan!"
+   },
+   "no_cache": {
+      "message": "Belum ada cache lokal!"
+   },
+   "no_resources": {
+      "message": "Tidak ada sumber unduhan"
+   },
+   "no_result": {
+      "message": "Tidak ada file sumber daya yang ditemukan!"
+   },
+   "no_video": {
+      "message": "Video tidak dapat direkam, atau video tidak ada!"
+   },
+   "normal_membership": {
+      "message": "Keanggotaan biasa"
+   },
+   "not_support": {
+      "message": "Situs ini tidak didukung"
+   },
+   "options": {
+      "message": "Pilihan"
+   },
+   "play": {
+      "message": "Bermain"
+   },
+   "record_complete_clip": {
+      "message": "Karena ada resolusi data yang berbeda dalam streaming, video dibagi menjadi beberapa segmen."
+   },
+   "record_error_encryption": {
+      "message": "Data video tampaknya memiliki hak cipta."
+   },
+   "recording_complete": {
+      "message": "Perekaman selesai!"
+   },
+   "recording_error": {
+      "message": "Kesalahan perekaman!"
+   },
+   "request_timed_out": {
+      "message": "Waktu permintaan habis!"
+   },
+   "reset": {
+      "message": "Mengatur ulang"
+   },
+   "resources_list_empty": {
+      "message": "Daftar sumber daya kosong!"
+   },
+   "save": {
+      "message": "Menyimpan"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Koneksi server gagal!"
+   },
+   "setting": {
+      "message": "Mempersiapkan"
+   },
+   "setting_success": {
+      "message": "Pengaturan sukses!"
+   },
+   "size": {
+      "message": "Ukuran"
+   },
+   "size_filter": {
+      "message": "Pemfilteran ukuran"
+   },
+   "size_filter_desc_1": {
+      "message": "Anda bisa mendapatkan video dalam ukuran ideal dengan opsi ini. Misalnya, jika yang lebih rendah adalah 1024KB, video yang lebih kecil dari 1024KB akan diabaikan. Jika bagian atas adalah 1024KB, video yang lebih besar dari 1024KB akan diabaikan. Jika nilai opsi adalah 0, itu berarti tidak ada batasan."
+   },
+   "size_filter_desc_2": {
+      "message": "Satuan dari opsi ini adalah \"KB\". Jika unit yang Anda gunakan adalah Bytes, MB dan GB, Anda perlu melakukan konversi yang sesuai. Berikut adalah hubungan konversi:"
+   },
+   "task_exists": {
+      "message": "Tugas sudah ada!"
+   },
+   "task_status_stop": {
+      "message": "Tugas ditunda..."
+   },
+   "thunks_over_tips": {
+      "message": "Terlalu banyak potongan dapat menyebabkan proses program gagal, harap simpan sesegera mungkin dan mulai perekaman baru."
+   },
+   "timeout": {
+      "message": "waktu kedaluwarsa:"
+   },
+   "unable_to_download": {
+      "message": "Tidak bisa di unduh!"
+   },
+   "unknown_mistake": {
+      "message": "Kesalahan yang tidak diketahui!"
+   },
+   "upgrade": {
+      "message": "Meningkatkan"
+   },
+   "upgrade_renewal": {
+      "message": "Perbarui keanggotaan"
+   },
+   "upper_limit": {
+      "message": "Batas atas"
+   },
+   "user_type": {
+      "message": "Tipe Pengguna:"
+   },
+   "visitor": {
+      "message": "Pengunjung"
+   },
+   "waiting_for_download": {
+      "message": "Menunggu unduhan..."
+   },
+   "webstore": {
+      "message": "Toko"
+   }
+}

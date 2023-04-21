@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "添加"
+   },
+   "advanced_membership": {
+      "message": "进阶会员！"
+   },
+   "block": {
+      "message": "屏蔽所有来自此域名的文件"
+   },
+   "block_domain_count_limit": {
+      "message": "最多可以屏蔽30个域名"
+   },
+   "block_success": {
+      "message": "屏蔽成功! 可以通过后台设置移除此屏蔽"
+   },
+   "bottom_alert": {
+      "message": "有些视频可能需要播放才能检测到链接，如果列表中没有你想要的视频，可以尝试播放。如果播放后依然无法取得链接，可尝试刷新当前页面，或者使用\u003Cb data-record class='ms-1 btn btn-sm btn-dark'>录制模式\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "缓存已删除"
+   },
+   "cache_deleteing": {
+      "message": "缓存即将删除："
+   },
+   "cannot_be_downloaded": {
+      "message": "数据为空，无法下载"
+   },
+   "chunks_count": {
+      "message": "分块数量："
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "conversion_error": {
+      "message": "数据转换错误!"
+   },
+   "copy": {
+      "message": "复制链接"
+   },
+   "copy_need_upgrade": {
+      "message": "需要升级为进阶会员才可以复制"
+   },
+   "copy_success": {
+      "message": "已成功复制URL"
+   },
+   "current_user": {
+      "message": "当前用户："
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "domain": {
+      "message": "域名"
+   },
+   "domain_blocking": {
+      "message": "域名屏蔽"
+   },
+   "domain_blocking_desc_1": {
+      "message": "来自于以下域名的文件将不会出现在下载列表中，不带https://或http://，像这样：www.example.com"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "download_cached": {
+      "message": "下载缓存部份"
+   },
+   "failed_to_get_resource": {
+      "message": "获取资源失败！"
+   },
+   "file": {
+      "message": "文件"
+   },
+   "format_filter": {
+      "message": "格式过滤"
+   },
+   "format_filter_desc_1": {
+      "message": "在以下的扩展名列表中，禁用的扩展视频类型在抓取时会被忽略。如果下面列表中有你不需要的视频类型，你可以将它禁用。"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "hls": {
+      "message": "流媒体"
+   },
+   "home": {
+      "message": "主页"
+   },
+   "hour": {
+      "message": "小时"
+   },
+   "loading": {
+      "message": "请稍待，正在加载..."
+   },
+   "loading_resources": {
+      "message": "资源加载中..."
+   },
+   "loading_resources_fail": {
+      "message": "资源加载失败！"
+   },
+   "lower_limit": {
+      "message": "下限"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV视频下载器"
+   },
+   "manifest_description": {
+      "message": "下载和录制各种格式的在线网页视频，包括HLS、m3u8、blob、mp4、webm等各种类型的视频。"
+   },
+   "manifest_name": {
+      "message": "FetchV:网页视频下载器(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "会员中心"
+   },
+   "merging_data": {
+      "message": "正在合并数据..."
+   },
+   "merging_data_error": {
+      "message": "数据合并出错！"
+   },
+   "merging_videos": {
+      "message": "正在合并视频中..."
+   },
+   "minute": {
+      "message": "分"
+   },
+   "modal_body": {
+      "message": "如果当前视频有可选分辨率，请确保选择固定的分辨率，而非自动，否则在网络状况不佳的情况下，分辨率自动切换会使录制的视频变成多个不同分辨率的片段。"
+   },
+   "modal_close": {
+      "message": "关闭"
+   },
+   "modal_confirm": {
+      "message": "确定"
+   },
+   "modal_title": {
+      "message": "提示"
+   },
+   "more_than_one_day": {
+      "message": "大于一天"
+   },
+   "network_error": {
+      "message": "网络错误！"
+   },
+   "no_cache": {
+      "message": "本地还没有缓存数据！"
+   },
+   "no_resources": {
+      "message": "无下载资源"
+   },
+   "no_result": {
+      "message": "没有找到资源文件！"
+   },
+   "no_video": {
+      "message": "该页面中的视频无法录制，或者不存在视频！"
+   },
+   "normal_membership": {
+      "message": "普通用户！"
+   },
+   "not_support": {
+      "message": "插件不支持该网站"
+   },
+   "options": {
+      "message": "操作"
+   },
+   "play": {
+      "message": "播放"
+   },
+   "record_complete_clip": {
+      "message": "因为流中有不同分辨率的数据，所以视频被分割成段。"
+   },
+   "record_error_encryption": {
+      "message": "视频数据似乎受版权保护。"
+   },
+   "recording_complete": {
+      "message": "录制已完成！"
+   },
+   "recording_error": {
+      "message": "录制出错！"
+   },
+   "request_timed_out": {
+      "message": "请求超时！"
+   },
+   "reset": {
+      "message": "重置"
+   },
+   "resources_list_empty": {
+      "message": "资源列表为空！"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "second": {
+      "message": "秒"
+   },
+   "server_connection_failed": {
+      "message": "服务器连接失败!"
+   },
+   "setting": {
+      "message": "设置"
+   },
+   "setting_success": {
+      "message": "设置保存成功！"
+   },
+   "size": {
+      "message": "大小"
+   },
+   "size_filter": {
+      "message": "大小过滤"
+   },
+   "size_filter_desc_1": {
+      "message": "你可以通过此选项让插件自动为你筛选出符合期望大小的视频，比如下限设置为1024KB，小于1024KB的视频会被忽略，如果设置上限为1024KB，大于1024KB的视频会被忽略。如果选项值设置为0，则表示没有限制。"
+   },
+   "size_filter_desc_2": {
+      "message": "该选项的单位是“KB”，如果你使用的单位是Bytes、MB、GB，则需要进行相应的换算，以下是换算关系："
+   },
+   "task_exists": {
+      "message": "任务已存在！"
+   },
+   "task_status_stop": {
+      "message": "任务暂停中..."
+   },
+   "thunks_over_tips": {
+      "message": "分块数量过多可能导致程序无法处理，请尽快保存，然后开始新的录制。"
+   },
+   "timeout": {
+      "message": "到期时间："
+   },
+   "unable_to_download": {
+      "message": "无法下载！"
+   },
+   "unknown_mistake": {
+      "message": "未知错误！"
+   },
+   "upgrade": {
+      "message": "升级会员"
+   },
+   "upgrade_renewal": {
+      "message": "升级或续费会员"
+   },
+   "upper_limit": {
+      "message": "上限"
+   },
+   "user_type": {
+      "message": "用户类型："
+   },
+   "visitor": {
+      "message": "访客"
+   },
+   "waiting_for_download": {
+      "message": "等待下载..."
+   },
+   "webstore": {
+      "message": "应用商店"
+   }
+}

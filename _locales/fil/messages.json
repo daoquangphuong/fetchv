@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Idagdag"
+   },
+   "advanced_membership": {
+      "message": "Advanced na membership"
+   },
+   "block": {
+      "message": "I-block ang lahat ng video mula sa domain na ito"
+   },
+   "block_domain_count_limit": {
+      "message": "Maaari kang mag-block ng hanggang 30 domain."
+   },
+   "block_success": {
+      "message": "Nagtagumpay ang na-block! Maaari mo itong alisin sa mga setting."
+   },
+   "bottom_alert": {
+      "message": "Maaaring kailangang i-play ang ilang video para makakita ng mga link, kaya subukang i-play ang mga ito. Kung hindi pa rin makuha ang link pagkatapos maglaro, subukang i-refresh ang page, o kunin ito\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Mode ng pag-record\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Tinanggal ang cache"
+   },
+   "cache_deleteing": {
+      "message": "Ang cache ay tatanggalin:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Walang laman ang data, hindi ma-download"
+   },
+   "chunks_count": {
+      "message": "Bilang ng mga piraso:"
+   },
+   "close": {
+      "message": "Isara"
+   },
+   "conversion_error": {
+      "message": "Error sa conversion!"
+   },
+   "copy": {
+      "message": "Kopya"
+   },
+   "copy_need_upgrade": {
+      "message": "Ipinagbabawal ang kinopya dahil hindi ka advanced membership"
+   },
+   "copy_success": {
+      "message": "Matagumpay na nakopya."
+   },
+   "current_user": {
+      "message": "Aktibong gumagamit:"
+   },
+   "delete": {
+      "message": "Tanggalin"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "domain_blocking": {
+      "message": "Pagprotekta ng domain"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Ang mga file mula sa sumusunod na domain name ay hindi lilitaw sa listahan ng pag-download. Nang walang https:// o http://, tulad nito: www.example.com"
+   },
+   "download": {
+      "message": "I-download"
+   },
+   "download_cached": {
+      "message": "I-download ang naka-cache na bahagi"
+   },
+   "failed_to_get_resource": {
+      "message": "Nabigong makakuha ng mapagkukunan!"
+   },
+   "file": {
+      "message": "Mga file"
+   },
+   "format_filter": {
+      "message": "Pag-filter ng format"
+   },
+   "format_filter_desc_1": {
+      "message": "Sa sumusunod na listahan, hindi papansinin ang mga naka-disable na pinahabang uri ng video kapag nang-aagaw. Kung mayroong uri ng video sa listahan sa ibaba na hindi mo kailangan, maaari mo itong i-disable."
+   },
+   "help": {
+      "message": "Tulong"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Bahay"
+   },
+   "hour": {
+      "message": "oras"
+   },
+   "loading": {
+      "message": "Naglo-load..."
+   },
+   "loading_resources": {
+      "message": "Naglo-load ng mapagkukunan..."
+   },
+   "loading_resources_fail": {
+      "message": "Nabigo ang pag-load ng mapagkukunan!"
+   },
+   "lower_limit": {
+      "message": "Mababang limitasyon"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV pag-download ng video"
+   },
+   "manifest_description": {
+      "message": "I-download ang lahat ng uri ng video online, kasama ang HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Pag-download ng video(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Member Center"
+   },
+   "merging_data": {
+      "message": "Pinagsasama ang data..."
+   },
+   "merging_data_error": {
+      "message": "Error sa pagsasama ng data!"
+   },
+   "merging_videos": {
+      "message": "Pinagsasama-sama ang mga video..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Kung ang kasalukuyang video ay may opsyonal na resolution, pakitiyak na pumili ng isang nakapirming resolution sa halip na awtomatiko, kung hindi man sa kaso ng mahihirap na kundisyon ng network, awtomatikong pagpapalit ng resolution, ang na-record na video ay mahahati sa maraming mga clip ng iba't ibang mga resolution."
+   },
+   "modal_close": {
+      "message": "Isara"
+   },
+   "modal_confirm": {
+      "message": "Kumpirmahin"
+   },
+   "modal_title": {
+      "message": "Mga tip"
+   },
+   "more_than_one_day": {
+      "message": "Mahigit isang araw"
+   },
+   "network_error": {
+      "message": "Error sa Network!"
+   },
+   "no_cache": {
+      "message": "Wala pang lokal na naka-cache!"
+   },
+   "no_resources": {
+      "message": "Walang mga mapagkukunan sa pag-download"
+   },
+   "no_result": {
+      "message": "Walang nahanap na mapagkukunang file!"
+   },
+   "no_video": {
+      "message": "Hindi mai-record ang video, o wala ang video!"
+   },
+   "normal_membership": {
+      "message": "Normal na membership"
+   },
+   "not_support": {
+      "message": "Ang site na ito ay hindi suportado"
+   },
+   "options": {
+      "message": "Pagpipilian"
+   },
+   "play": {
+      "message": "Maglaro"
+   },
+   "record_complete_clip": {
+      "message": "Dahil may iba't ibang resolution ng data sa stream, nahahati ang video sa mga segment."
+   },
+   "record_error_encryption": {
+      "message": "Mukhang naka-copyright ang data ng video."
+   },
+   "recording_complete": {
+      "message": "Nakumpleto ang pagre-record!"
+   },
+   "recording_error": {
+      "message": "Error sa pagre-record!"
+   },
+   "request_timed_out": {
+      "message": "Nag-time out ang kahilingan!"
+   },
+   "reset": {
+      "message": "I-reset"
+   },
+   "resources_list_empty": {
+      "message": "Walang laman ang listahan ng mapagkukunan!"
+   },
+   "save": {
+      "message": "I-save"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Nabigo ang koneksyon sa server!"
+   },
+   "setting": {
+      "message": "I-set up"
+   },
+   "setting_success": {
+      "message": "Pagtatakda ng tagumpay!"
+   },
+   "size": {
+      "message": "Sukat"
+   },
+   "size_filter": {
+      "message": "Pag-filter ng laki"
+   },
+   "size_filter_desc_1": {
+      "message": "Makakakuha ka ng mga video sa perpektong laki gamit ang opsyong ito. Halimbawa, kung ang mas mababa ay 1024KB, ang mga video na mas maliit sa 1024KB ay hindi papansinin. Kung ang itaas ay 1024KB, ang mga video na mas malaki sa 1024KB ay hindi papansinin. Kung ang halaga ng opsyon ay 0, nangangahulugan ito na walang limitasyon."
+   },
+   "size_filter_desc_2": {
+      "message": "Ang unit ng opsyong ito ay \"KB\". Kung ang unit na iyong ginagamit ay Bytes, MB at GB, kailangan mong gumawa ng kaukulang conversion. Narito ang kaugnayan ng conversion:"
+   },
+   "task_exists": {
+      "message": "Umiiral na ang gawain!"
+   },
+   "task_status_stop": {
+      "message": "Naka-hold ang gawain..."
+   },
+   "thunks_over_tips": {
+      "message": "Masyadong maraming mga tipak ang maaaring maging sanhi ng pagkabigo sa proseso ng programa, mangyaring i-save sa lalong madaling panahon at magsimula ng bagong pag-record."
+   },
+   "timeout": {
+      "message": "Oras ng pag-expire:"
+   },
+   "unable_to_download": {
+      "message": "Hindi ma-download!"
+   },
+   "unknown_mistake": {
+      "message": "Hindi kilalang pagkakamali!"
+   },
+   "upgrade": {
+      "message": "Mag-upgrade"
+   },
+   "upgrade_renewal": {
+      "message": "I-renew ang membership"
+   },
+   "upper_limit": {
+      "message": "Pinakamataas na limitasyon"
+   },
+   "user_type": {
+      "message": "Uri ng user:"
+   },
+   "visitor": {
+      "message": "Bisita"
+   },
+   "waiting_for_download": {
+      "message": "Naghihintay ng pag-download..."
+   },
+   "webstore": {
+      "message": "Tindahan"
+   }
+}

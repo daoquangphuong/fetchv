@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Ajouter"
+   },
+   "advanced_membership": {
+      "message": "Adhésion avancée"
+   },
+   "block": {
+      "message": "Bloquer toutes les vidéos de ce domaine"
+   },
+   "block_domain_count_limit": {
+      "message": "Vous pouvez bloquer jusqu'à 30 domaines."
+   },
+   "block_success": {
+      "message": "Bloqué réussi&nbsp;! Vous pouvez le supprimer dans les paramètres."
+   },
+   "bottom_alert": {
+      "message": "Certaines vidéos peuvent avoir besoin d'être lues pour détecter les liens, alors essayez de les lire. Si vous ne parvenez toujours pas à obtenir le lien après avoir joué, essayez d'actualiser la page ou obtenez-le avec\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Mode d'enregistrement\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Cache supprimé"
+   },
+   "cache_deleteing": {
+      "message": "Le cache sera supprimé&nbsp;:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Les données sont vides, ne peuvent pas être téléchargées"
+   },
+   "chunks_count": {
+      "message": "Les morceaux comptent&nbsp;:"
+   },
+   "close": {
+      "message": "proche"
+   },
+   "conversion_error": {
+      "message": "Erreur de conversion&nbsp;!"
+   },
+   "copy": {
+      "message": "Copie"
+   },
+   "copy_need_upgrade": {
+      "message": "Copie interdite car vous n'êtes pas membre avancé"
+   },
+   "copy_success": {
+      "message": "Copié avec succès."
+   },
+   "current_user": {
+      "message": "Utilisateur actif："
+   },
+   "delete": {
+      "message": "Effacer"
+   },
+   "domain": {
+      "message": "Domaine"
+   },
+   "domain_blocking": {
+      "message": "Blindage de domaine"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Les fichiers du nom de domaine suivant n'apparaîtront pas dans la liste de téléchargement. Sans https:// ou http://, comme ceci : www.example.com"
+   },
+   "download": {
+      "message": "Télécharger"
+   },
+   "download_cached": {
+      "message": "Télécharger la partie en cache"
+   },
+   "failed_to_get_resource": {
+      "message": "Échec de l'obtention de la ressource&nbsp;!"
+   },
+   "file": {
+      "message": "Des dossiers"
+   },
+   "format_filter": {
+      "message": "Filtrage des formats"
+   },
+   "format_filter_desc_1": {
+      "message": "Dans la liste suivante, les types de vidéo étendus désactivés seront ignorés lors de la capture. S'il y a un type de vidéo dans la liste ci-dessous dont vous n'avez pas besoin, vous pouvez le désactiver."
+   },
+   "help": {
+      "message": "Aider"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Maison"
+   },
+   "hour": {
+      "message": "heure"
+   },
+   "loading": {
+      "message": "Chargement..."
+   },
+   "loading_resources": {
+      "message": "Chargement des ressources..."
+   },
+   "loading_resources_fail": {
+      "message": "Le chargement des ressources a échoué&nbsp;!"
+   },
+   "lower_limit": {
+      "message": "Limite inférieure"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV téléchargeur de vidéo"
+   },
+   "manifest_description": {
+      "message": "Téléchargez toutes sortes de vidéos en ligne, y compris HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Téléchargeur de vidéo(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Centre des membres"
+   },
+   "merging_data": {
+      "message": "Fusion des données..."
+   },
+   "merging_data_error": {
+      "message": "Erreur de fusion de données&nbsp;!"
+   },
+   "merging_videos": {
+      "message": "Combiner des vidéos..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Si la vidéo actuelle a une résolution optionnelle, assurez-vous de sélectionner une résolution fixe au lieu d'une résolution automatique, sinon en cas de mauvaises conditions de réseau, de changement de résolution automatique, la vidéo enregistrée sera divisée en plusieurs clips de résolutions différentes."
+   },
+   "modal_close": {
+      "message": "proche"
+   },
+   "modal_confirm": {
+      "message": "Confirmer"
+   },
+   "modal_title": {
+      "message": "Des astuces"
+   },
+   "more_than_one_day": {
+      "message": "Plus d'un jour"
+   },
+   "network_error": {
+      "message": "Erreur réseau&nbsp;!"
+   },
+   "no_cache": {
+      "message": "Il n'y a pas encore de cache local&nbsp;!"
+   },
+   "no_resources": {
+      "message": "Aucune ressource de téléchargement"
+   },
+   "no_result": {
+      "message": "Aucun fichier de ressources trouvé&nbsp;!"
+   },
+   "no_video": {
+      "message": "La vidéo ne peut pas être enregistrée ou la vidéo n'existe pas&nbsp;!"
+   },
+   "normal_membership": {
+      "message": "Adhésion normale"
+   },
+   "not_support": {
+      "message": "Ce site n'est pas pris en charge"
+   },
+   "options": {
+      "message": "Option"
+   },
+   "play": {
+      "message": "Jouer"
+   },
+   "record_complete_clip": {
+      "message": "Étant donné qu'il existe différentes résolutions de données dans le flux, la vidéo est divisée en segments."
+   },
+   "record_error_encryption": {
+      "message": "Les données vidéo semblent être protégées par des droits d'auteur."
+   },
+   "recording_complete": {
+      "message": "Enregistrement terminé&nbsp;!"
+   },
+   "recording_error": {
+      "message": "Erreur d'enregistrement&nbsp;!"
+   },
+   "request_timed_out": {
+      "message": "La demande a expiré&nbsp;!"
+   },
+   "reset": {
+      "message": "Réinitialiser"
+   },
+   "resources_list_empty": {
+      "message": "La liste des ressources est vide&nbsp;!"
+   },
+   "save": {
+      "message": "sauvegarder"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "La connexion au serveur a échoué&nbsp;!"
+   },
+   "setting": {
+      "message": "Mettre en place"
+   },
+   "setting_success": {
+      "message": "Mise en place réussie&nbsp;!"
+   },
+   "size": {
+      "message": "Taille"
+   },
+   "size_filter": {
+      "message": "Filtrage par taille"
+   },
+   "size_filter_desc_1": {
+      "message": "Vous pouvez obtenir des vidéos de taille idéale avec cette option. Par exemple, si la valeur inférieure est de 1&nbsp;024&nbsp;Ko, les vidéos inférieures à 1&nbsp;024&nbsp;Ko seront ignorées. Si la valeur supérieure est de 1&nbsp;024&nbsp;Ko, les vidéos supérieures à 1&nbsp;024&nbsp;Ko seront ignorées. Si la valeur de l'option est 0, cela signifie qu'il n'y a pas de limite."
+   },
+   "size_filter_desc_2": {
+      "message": "L'unité de cette option est \"Ko\". Si l'unité que vous utilisez est Octets, Mo et Go, vous devez effectuer la conversion correspondante. Voici la relation de conversion&nbsp;:"
+   },
+   "task_exists": {
+      "message": "La tâche existe déjà&nbsp;!"
+   },
+   "task_status_stop": {
+      "message": "La tâche est en attente..."
+   },
+   "thunks_over_tips": {
+      "message": "Trop de morceaux peuvent entraîner l'échec du processus du programme, veuillez sauvegarder dès que possible et démarrer un nouvel enregistrement."
+   },
+   "timeout": {
+      "message": "Date d'expiration:"
+   },
+   "unable_to_download": {
+      "message": "Incapable de télécharger!"
+   },
+   "unknown_mistake": {
+      "message": "Erreur inconnue !"
+   },
+   "upgrade": {
+      "message": "Mise à niveau"
+   },
+   "upgrade_renewal": {
+      "message": "Renouveler l'adhésion"
+   },
+   "upper_limit": {
+      "message": "Limite supérieure"
+   },
+   "user_type": {
+      "message": "Type d'utilisateur:"
+   },
+   "visitor": {
+      "message": "Visiteur"
+   },
+   "waiting_for_download": {
+      "message": "En attente de téléchargement..."
+   },
+   "webstore": {
+      "message": "Magasin"
+   }
+}

@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "जोड़ें"
+   },
+   "advanced_membership": {
+      "message": "उन्नत सदस्यता"
+   },
+   "block": {
+      "message": "इस डोमेन के सभी वीडियो ब्लॉक करें"
+   },
+   "block_domain_count_limit": {
+      "message": "आप अधिकतम 30 डोमेन को ब्लॉक कर सकते हैं।"
+   },
+   "block_success": {
+      "message": "ब्लॉक किया गया सफल! आप इसे सेटिंग में जाकर हटा सकते हैं।"
+   },
+   "bottom_alert": {
+      "message": "लिंक का पता लगाने के लिए कुछ वीडियो चलाने की आवश्यकता हो सकती है, इसलिए उन्हें चलाने का प्रयास करें। अगर खेलने के बाद भी लिंक नहीं मिलता है, तो पेज को रीफ्रेश करने का प्रयास करें, या इसे प्राप्त करें\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">रिकॉर्डिंग मोड\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "कैश हटाया गया"
+   },
+   "cache_deleteing": {
+      "message": "कैश हटा दिया जाएगा:"
+   },
+   "cannot_be_downloaded": {
+      "message": "डेटा खाली है, डाउनलोड नहीं किया जा सकता"
+   },
+   "chunks_count": {
+      "message": "भाग गिनती:"
+   },
+   "close": {
+      "message": "बंद करना"
+   },
+   "conversion_error": {
+      "message": "रूपांतरण त्रुटि!"
+   },
+   "copy": {
+      "message": "प्रतिलिपि"
+   },
+   "copy_need_upgrade": {
+      "message": "कॉपी करना मना है क्योंकि आप उन्नत सदस्यता नहीं हैं"
+   },
+   "copy_success": {
+      "message": "सफलतापूर्वक कॉपी किया गया।"
+   },
+   "current_user": {
+      "message": "सक्रिय उपयोगकर्ता："
+   },
+   "delete": {
+      "message": "मिटाना"
+   },
+   "domain": {
+      "message": "कार्यक्षेत्र"
+   },
+   "domain_blocking": {
+      "message": "डोमेन परिरक्षण"
+   },
+   "domain_blocking_desc_1": {
+      "message": "निम्न डोमेन नाम की फ़ाइलें डाउनलोड सूची में दिखाई नहीं देंगी। बिना https:// या http://, इस तरह: www.example.com"
+   },
+   "download": {
+      "message": "डाउनलोड"
+   },
+   "download_cached": {
+      "message": "कैश्ड भाग डाउनलोड करें"
+   },
+   "failed_to_get_resource": {
+      "message": "संसाधन प्राप्त करने में विफल!"
+   },
+   "file": {
+      "message": "फ़ाइलें"
+   },
+   "format_filter": {
+      "message": "स्वरूप फ़िल्टरिंग"
+   },
+   "format_filter_desc_1": {
+      "message": "निम्न सूची में, अक्षम विस्तारित वीडियो प्रकारों को हथियाने पर अनदेखा कर दिया जाएगा। यदि नीचे दी गई सूची में कोई वीडियो प्रकार है जिसकी आपको आवश्यकता नहीं है, तो आप उसे अक्षम कर सकते हैं।"
+   },
+   "help": {
+      "message": "मदद करना"
+   },
+   "hls": {
+      "message": "एचएलएस"
+   },
+   "home": {
+      "message": "घर"
+   },
+   "hour": {
+      "message": "घंटा"
+   },
+   "loading": {
+      "message": "लोड हो रहा है..."
+   },
+   "loading_resources": {
+      "message": "संसाधन लोड हो रहा है..."
+   },
+   "loading_resources_fail": {
+      "message": "संसाधन लोड विफल!"
+   },
+   "lower_limit": {
+      "message": "निचली सीमा"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV वीडियो डाउनलोडर"
+   },
+   "manifest_description": {
+      "message": "सभी प्रकार के वीडियो ऑनलाइन डाउनलोड करें, जिसमें HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:वीडियो डाउनलोडर(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "सदस्य केंद्र"
+   },
+   "merging_data": {
+      "message": "डेटा मर्ज किया जा रहा है..."
+   },
+   "merging_data_error": {
+      "message": "डेटा मर्ज त्रुटि!"
+   },
+   "merging_videos": {
+      "message": "वीडियो को संयोजित किया जा रहा है..."
+   },
+   "minute": {
+      "message": "मिनट"
+   },
+   "modal_body": {
+      "message": "यदि वर्तमान वीडियो में एक वैकल्पिक रिज़ॉल्यूशन है, तो कृपया स्वचालित के बजाय एक निश्चित रिज़ॉल्यूशन का चयन करना सुनिश्चित करें, अन्यथा खराब नेटवर्क स्थितियों, स्वचालित रिज़ॉल्यूशन स्विचिंग के मामले में, रिकॉर्ड किया गया वीडियो विभिन्न रिज़ॉल्यूशन के कई क्लिप में विभाजित हो जाएगा।"
+   },
+   "modal_close": {
+      "message": "बंद करना"
+   },
+   "modal_confirm": {
+      "message": "पुष्टि करें"
+   },
+   "modal_title": {
+      "message": "सलाह"
+   },
+   "more_than_one_day": {
+      "message": "एक दिन से अधिक"
+   },
+   "network_error": {
+      "message": "नेटवर्क त्रुटि!"
+   },
+   "no_cache": {
+      "message": "अभी तक कोई स्थानीय कैश नहीं है!"
+   },
+   "no_resources": {
+      "message": "कोई डाउनलोड संसाधन नहीं"
+   },
+   "no_result": {
+      "message": "कोई संसाधन फ़ाइल नहीं मिली!"
+   },
+   "no_video": {
+      "message": "वीडियो रिकॉर्ड नहीं किया जा सकता, या वीडियो मौजूद नहीं है!"
+   },
+   "normal_membership": {
+      "message": "सामान्य सदस्यता"
+   },
+   "not_support": {
+      "message": "यह साइट समर्थित नहीं है"
+   },
+   "options": {
+      "message": "विकल्प"
+   },
+   "play": {
+      "message": "खेलें"
+   },
+   "record_complete_clip": {
+      "message": "चूंकि स्ट्रीम में डेटा के अलग-अलग रिज़ॉल्यूशन होते हैं, इसलिए वीडियो को सेगमेंट में विभाजित किया जाता है।"
+   },
+   "record_error_encryption": {
+      "message": "वीडियो डेटा कॉपीराइट प्रतीत होता है।"
+   },
+   "recording_complete": {
+      "message": "रिकॉर्डिंग पूरी हुई!"
+   },
+   "recording_error": {
+      "message": "रिकॉर्डिंग त्रुटि!"
+   },
+   "request_timed_out": {
+      "message": "अनुरोध का समय समाप्त!"
+   },
+   "reset": {
+      "message": "रीसेट"
+   },
+   "resources_list_empty": {
+      "message": "संसाधन सूची खाली है!"
+   },
+   "save": {
+      "message": "बचाना"
+   },
+   "second": {
+      "message": "एस"
+   },
+   "server_connection_failed": {
+      "message": "सर्वर कनेक्शन विफल!"
+   },
+   "setting": {
+      "message": "स्थापित करना"
+   },
+   "setting_success": {
+      "message": "सफलता की स्थापना!"
+   },
+   "size": {
+      "message": "आकार"
+   },
+   "size_filter": {
+      "message": "आकार फ़िल्टरिंग"
+   },
+   "size_filter_desc_1": {
+      "message": "आप इस विकल्प के साथ आदर्श आकार में वीडियो प्राप्त कर सकते हैं। उदाहरण के लिए, यदि निचला 1024KB है, तो 1024KB से छोटे वीडियो को अनदेखा कर दिया जाएगा। यदि ऊपरी भाग 1024KB है, तो 1024KB से बड़े वीडियो पर ध्यान नहीं दिया जाएगा। यदि विकल्प मान 0 है, तो इसका अर्थ कोई सीमा नहीं है।"
+   },
+   "size_filter_desc_2": {
+      "message": "इस विकल्प की इकाई \"KB\" है। यदि आपके द्वारा उपयोग की जाने वाली इकाई बाइट्स, एमबी और जीबी है, तो आपको संबंधित रूपांतरण करने की आवश्यकता है। यहाँ रूपांतरण संबंध है:"
+   },
+   "task_exists": {
+      "message": "काम पहले से मौज़ूद!"
+   },
+   "task_status_stop": {
+      "message": "टास्क होल्ड पर है..."
+   },
+   "thunks_over_tips": {
+      "message": "कार्यक्रम की प्रक्रिया विफल होने के कारण बहुत अधिक भाग हो सकते हैं, कृपया जितनी जल्दी हो सके सहेजें और एक नई रिकॉर्डिंग शुरू करें।"
+   },
+   "timeout": {
+      "message": "समय सीमा समाप्ति समय:"
+   },
+   "unable_to_download": {
+      "message": "डाउनलोड करने में असमर्थ!"
+   },
+   "unknown_mistake": {
+      "message": "अज्ञात गलती!"
+   },
+   "upgrade": {
+      "message": "उन्नत करना"
+   },
+   "upgrade_renewal": {
+      "message": "सदस्यता नवीनीकृत करें"
+   },
+   "upper_limit": {
+      "message": "ऊपरी सीमा"
+   },
+   "user_type": {
+      "message": "उपयोगकर्ता का प्रकार:"
+   },
+   "visitor": {
+      "message": "आगंतुक"
+   },
+   "waiting_for_download": {
+      "message": "डाउनलोड की प्रतीक्षा की जा रही है..."
+   },
+   "webstore": {
+      "message": "इकट्ठा करना"
+   }
+}

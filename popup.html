@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        .fs-7{font-size: 0.9rem;}
+        ::-webkit-scrollbar {
+            width: .5rem;
+            height: .5rem;
+            background: hsla(0, 0%, 100%, 0.6);
+        }
+        ::-webkit-scrollbar-track {
+            border-radius: 0;
+        }
+        ::-webkit-scrollbar-thumb {
+            border-radius: 0;
+            background-color: rgba(95, 95, 95, .4);
+            transition: all .2s;
+            border-radius: .5rem;
+        }
+        .transform{transform: rotateX(180deg);}
+        .break-word{word-wrap:break-word;word-break:break-all;}
+    </style>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="py-2 px-3 mt-1 mx-1 rounded-2" style="background-color: #6f42c1">
+    <div class=" row">
+        <div class="col-6">
+            <div class="d-flex">
+                <img width="26" height="26" src="img/icon.png">
+                <div class="d-inline-block fs-5 fw-bold text-white ms-1">FetchV</div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="text-end">
+                <button lang-text menu-home class="btn btn-sm btn-light rounded-pill">home</button>
+                <button lang-text menu-options class="btn btn-sm btn-light rounded-pill ms-1">setting</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="py-3 mx-2" style="width: 580px;">
+
+    <div id="loading" class="text-center py-5">
+        <div class="spinner-grow" style="width: 3rem; height: 3rem;" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+        <p lang-text class="text-black-50 mt-2">loading</p>
+    </div>
+
+    <div id="noSupport" class="py-3 d-none">
+        <h3 lang-text class="pb-3">not_support</h3>
+    </div>
+
+    <div id="noData" class="py-3 d-none">
+        <h3 lang-text class="pb-3">no_result</h3>
+        <div lang-html class="alert alert-danger fs-7">bottom_alert</div>
+    </div>
+    <div id="table" class="d-none">
+        <input type="hidden" id="tab">
+        <table class="table">
+            <thead class="sticky-top bg-white border-bottom border-dark">
+            <tr>
+                <th width="360" scope="col" lang-text>file</th>
+                <th scope="col" lang-text>size</th>
+                <th width="135" scope="col" lang-text>options</th>
+            </tr>
+            </thead>
+            <tbody class="border-top-0">
+            <tr>
+                <td class="name">
+                    <div class="position-relative" style="cursor: pointer;">
+                        <img class="chevron-down" src="img/svg/chevron-down.svg">
+                        <span data-name class="fs-7 break-word"></span>
+                    </div>
+                </td>
+                <td>
+                    <span data-size class="btn btn-sm btn-light text-black-50 fs-7"></span>
+                </td>
+                <td>
+                    <a lang-title data-download="" title="download" class="text-decoration-none d-inline-block mx-1" style="cursor: pointer;">
+                        <img src="img/svg/download.svg">
+                    </a>
+                    <a lang-title data-copy="" title="copy" class="text-decoration-none d-inline-block mx-1" style="cursor: pointer;">
+                        <img src="img/svg/front.svg">
+                    </a>
+                    <a lang-title data-play="" title="play" class="text-decoration-none d-inline-block mx-1" style="cursor: pointer;">
+                        <img src="img/svg/play-circle-fill.svg">
+                    </a>
+                    <a lang-title data-block="" title="block" class="text-decoration-none d-inline-block mx-1" style="cursor: pointer;">
+                        <img src="img/svg/camera-video-off-fill.svg">
+                    </a>
+                </td>
+            </tr>
+            <tr class="url d-none">
+                <td colspan="4">
+                    <span data-url class="fs-7 d-block alert alert-info break-word"></span>
+                    <div class="video-wrap py-2 text-center d-none">
+                        <div class="video-box"></div>
+                        <button lang-text class="video-close btn btn-sm btn-danger mt-2">close</button>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div lang-html class="alert alert-warning fs-7">bottom_alert</div>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1">
+    <div modal-close class="position-absolute top-0 start-0 bg-dark opacity-25 w-100 h-100"></div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 lang-text class="modal-title">modal_title</h6>
+                <button modal-close type="button" class="btn-close"></button>
+            </div>
+            <div lang-text class="modal-body fs-7">modal_body</div>
+            <div class="modal-footer">
+                <button lang-text modal-close type="button" class="btn btn-secondary" data-bs-dismiss="modal">modal_close</button>
+                <button lang-text modal-confirm type="button" class="btn btn-primary">modal_confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="layer" class="fixed-bottom w-100 pb-5 mb-3 d-none">
+    <div class="alert alert-success text-center mx-auto shadow-lg w-75"></div>
+</div>
+<script src="libs/jquery-3.6.0.min.js"></script>
+<script src="js/popup.js"></script>
+</body>
+</html>

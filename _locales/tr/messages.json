@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Ekle"
+   },
+   "advanced_membership": {
+      "message": "Gelişmiş üyelik"
+   },
+   "block": {
+      "message": "Bu alan adındaki tüm videoları engelle"
+   },
+   "block_domain_count_limit": {
+      "message": "30 alana kadar engelleyebilirsiniz."
+   },
+   "block_success": {
+      "message": "Engelleme başarılı! Ayarlardan kaldırabilirsiniz."
+   },
+   "bottom_alert": {
+      "message": "Bağlantıları algılamak için bazı videoların oynatılması gerekebilir, bu nedenle oynatmayı deneyin. Oynadıktan sonra bağlantıyı hala alamıyorsanız, sayfayı yenilemeyi deneyin veya\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Kayıt modu\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Önbellek silindi"
+   },
+   "cache_deleteing": {
+      "message": "Önbellek silinecek:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Veri boş, indirilemiyor"
+   },
+   "chunks_count": {
+      "message": "Parça sayısı:"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "conversion_error": {
+      "message": "Dönüşüm hatası!"
+   },
+   "copy": {
+      "message": "kopyala"
+   },
+   "copy_need_upgrade": {
+      "message": "Gelişmiş üyelik olmadığınız için kopyalanması yasaktır"
+   },
+   "copy_success": {
+      "message": "Başarıyla kopyalandı."
+   },
+   "current_user": {
+      "message": "Aktif kullanıcı："
+   },
+   "delete": {
+      "message": "Silmek"
+   },
+   "domain": {
+      "message": "Alan adı"
+   },
+   "domain_blocking": {
+      "message": "Etki alanı koruması"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Aşağıdaki alan adındaki dosyalar indirme listesinde görünmeyecektir. https:// veya http:// olmadan, şunun gibi: www.example.com"
+   },
+   "download": {
+      "message": "İndirmek"
+   },
+   "download_cached": {
+      "message": "Önbelleğe alınmış bölümü indir"
+   },
+   "failed_to_get_resource": {
+      "message": "Kaynak alınamadı!"
+   },
+   "file": {
+      "message": "Dosyalar"
+   },
+   "format_filter": {
+      "message": "Biçim filtreleme"
+   },
+   "format_filter_desc_1": {
+      "message": "Aşağıdaki listede, devre dışı bırakılan genişletilmiş video türleri, yakalama sırasında yoksayılacaktır. Aşağıdaki listede ihtiyacınız olmayan bir video türü varsa, devre dışı bırakabilirsiniz."
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Ev"
+   },
+   "hour": {
+      "message": "saat"
+   },
+   "loading": {
+      "message": "Yükleniyor..."
+   },
+   "loading_resources": {
+      "message": "Kaynak yükleniyor..."
+   },
+   "loading_resources_fail": {
+      "message": "Kaynak yüklenemedi!"
+   },
+   "lower_limit": {
+      "message": "Alt sınır"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV video indirmeye"
+   },
+   "manifest_description": {
+      "message": "HLS, m3u8, blob, mp4, webm dahil her türlü videoyu çevrimiçi olarak indirin..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video indirmeye(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Üye Merkezi"
+   },
+   "merging_data": {
+      "message": "Veriler birleştiriliyor..."
+   },
+   "merging_data_error": {
+      "message": "Veri birleştirme hatası!"
+   },
+   "merging_videos": {
+      "message": "Videolar birleştiriliyor..."
+   },
+   "minute": {
+      "message": "dk"
+   },
+   "modal_body": {
+      "message": "Mevcut videonun isteğe bağlı bir çözünürlüğü varsa, lütfen otomatik yerine sabit bir çözünürlük seçtiğinizden emin olun, aksi takdirde zayıf ağ koşulları, otomatik çözünürlük değiştirme durumunda, kaydedilen video farklı çözünürlüklerde birden fazla klibe bölünecektir."
+   },
+   "modal_close": {
+      "message": "Kapat"
+   },
+   "modal_confirm": {
+      "message": "Onaylamak"
+   },
+   "modal_title": {
+      "message": "İpuçları"
+   },
+   "more_than_one_day": {
+      "message": "bir günden fazla"
+   },
+   "network_error": {
+      "message": "Ağ hatası!"
+   },
+   "no_cache": {
+      "message": "Henüz yerel önbelleğe alınmış yok!"
+   },
+   "no_resources": {
+      "message": "İndirme kaynağı yok"
+   },
+   "no_result": {
+      "message": "Kaynak dosyası bulunamadı!"
+   },
+   "no_video": {
+      "message": "Video kaydedilemiyor veya video mevcut değil!"
+   },
+   "normal_membership": {
+      "message": "Normal üyelik"
+   },
+   "not_support": {
+      "message": "Bu site desteklenmiyor"
+   },
+   "options": {
+      "message": "Seçenek"
+   },
+   "play": {
+      "message": "Oyna"
+   },
+   "record_complete_clip": {
+      "message": "Akışta farklı veri çözünürlüğü olduğundan, video segmentlere ayrılır."
+   },
+   "record_error_encryption": {
+      "message": "Video verilerinin telif hakkıyla korunduğu görülüyor."
+   },
+   "recording_complete": {
+      "message": "Kayıt tamamlandı!"
+   },
+   "recording_error": {
+      "message": "Kayıt hatası!"
+   },
+   "request_timed_out": {
+      "message": "İstek zaman aşımına uğradı!"
+   },
+   "reset": {
+      "message": "Sıfırla"
+   },
+   "resources_list_empty": {
+      "message": "Kaynak listesi boş!"
+   },
+   "save": {
+      "message": "Kaydetmek"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Sunucu bağlantısı başarısız oldu!"
+   },
+   "setting": {
+      "message": "Kurmak"
+   },
+   "setting_success": {
+      "message": "Başarıyı ayarlamak!"
+   },
+   "size": {
+      "message": "Boyut"
+   },
+   "size_filter": {
+      "message": "Boyut filtreleme"
+   },
+   "size_filter_desc_1": {
+      "message": "Bu seçenek ile ideal boyutta videolar elde edebilirsiniz. Örneğin, düşük 1024KB ise, 1024KB'den küçük videolar yok sayılır. Üst kısım 1024KB ise, 1024KB'den büyük videolar yok sayılır. Opsiyon değeri 0 ise limit yok demektir."
+   },
+   "size_filter_desc_2": {
+      "message": "Bu seçeneğin birimi \"KB\" dir. Kullandığınız birim Bayt, MB ve GB ise buna karşılık gelen dönüştürmeyi yapmanız gerekir. İşte dönüşüm ilişkisi:"
+   },
+   "task_exists": {
+      "message": "Görev zaten mevcut!"
+   },
+   "task_status_stop": {
+      "message": "Görev beklemede..."
+   },
+   "thunks_over_tips": {
+      "message": "Çok fazla parça program işleminin başarısız olmasına neden olabilir, lütfen mümkün olan en kısa sürede kaydedin ve yeni bir kayıt başlatın."
+   },
+   "timeout": {
+      "message": "son kullanma süresi:"
+   },
+   "unable_to_download": {
+      "message": "İndirmek mümkün değil!"
+   },
+   "unknown_mistake": {
+      "message": "Bilinmeyen hata!"
+   },
+   "upgrade": {
+      "message": "Güncelleme"
+   },
+   "upgrade_renewal": {
+      "message": "Üyeliği yenile"
+   },
+   "upper_limit": {
+      "message": "Üst sınır"
+   },
+   "user_type": {
+      "message": "Kullanıcı tipi:"
+   },
+   "visitor": {
+      "message": "Ziyaretçi"
+   },
+   "waiting_for_download": {
+      "message": "İndirme bekleniyor..."
+   },
+   "webstore": {
+      "message": "Mağaza"
+   }
+}

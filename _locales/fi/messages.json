@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Lisätä"
+   },
+   "advanced_membership": {
+      "message": "Edistynyt jäsenyys"
+   },
+   "block": {
+      "message": "Estä kaikki tämän verkkotunnuksen videot"
+   },
+   "block_domain_count_limit": {
+      "message": "Voit estää enintään 30 verkkotunnusta."
+   },
+   "block_success": {
+      "message": "Esto onnistui! Voit poistaa sen asetuksista."
+   },
+   "bottom_alert": {
+      "message": "Joitakin videoita on ehkä toistettava linkkien havaitsemiseksi, joten yritä toistaa ne. Jos linkkiä ei vieläkään löydy pelaamisen jälkeen, yritä päivittää sivu tai hanki se käyttämällä\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Tallennustila\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Välimuisti poistettu"
+   },
+   "cache_deleteing": {
+      "message": "Välimuisti poistetaan:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Tiedot ovat tyhjiä, niitä ei voi ladata"
+   },
+   "chunks_count": {
+      "message": "Palojen määrä:"
+   },
+   "close": {
+      "message": "kiinni"
+   },
+   "conversion_error": {
+      "message": "Muunnosvirhe!"
+   },
+   "copy": {
+      "message": "Kopio"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopiointi kielletty, koska et ole edistynyt jäsen"
+   },
+   "copy_success": {
+      "message": "Kopiointi onnistui."
+   },
+   "current_user": {
+      "message": "Aktiivinen käyttäjä:"
+   },
+   "delete": {
+      "message": "Poistaa"
+   },
+   "domain": {
+      "message": "Verkkotunnus"
+   },
+   "domain_blocking": {
+      "message": "Verkkotunnuksen suojaus"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Seuraavan verkkotunnuksen tiedostot eivät näy latausluettelossa. Ilman https:// tai http://, kuten tämä: www.example.com"
+   },
+   "download": {
+      "message": "ladata"
+   },
+   "download_cached": {
+      "message": "Lataa välimuistissa oleva osa"
+   },
+   "failed_to_get_resource": {
+      "message": "Resurssin saaminen epäonnistui!"
+   },
+   "file": {
+      "message": "Tiedostot"
+   },
+   "format_filter": {
+      "message": "Muotosuodatus"
+   },
+   "format_filter_desc_1": {
+      "message": "Seuraavassa luettelossa käytöstä poistetut laajennetut videotyypit ohitetaan tarttuessa. Jos alla olevassa luettelossa on videotyyppi, jota et tarvitse, voit poistaa sen käytöstä."
+   },
+   "help": {
+      "message": "auta"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Koti"
+   },
+   "hour": {
+      "message": "tunnin"
+   },
+   "loading": {
+      "message": "Ladataan..."
+   },
+   "loading_resources": {
+      "message": "Resurssia ladataan..."
+   },
+   "loading_resources_fail": {
+      "message": "Resurssin lataus epäonnistui!"
+   },
+   "lower_limit": {
+      "message": "Alaraja"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV videon latausohjelma"
+   },
+   "manifest_description": {
+      "message": "Lataa ja tallenna kaikenlaisia videoita verkossa, mukaan lukien HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Videon latausohjelma(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Jäsenkeskus"
+   },
+   "merging_data": {
+      "message": "Yhdistetään tietoja..."
+   },
+   "merging_data_error": {
+      "message": "Tietojen yhdistämisvirhe!"
+   },
+   "merging_videos": {
+      "message": "Yhdistetään videoita..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Jos nykyisessä videossa on valinnainen tarkkuus, muista valita kiinteä tarkkuus automaattisen sijaan, muuten huonojen verkko-olosuhteiden, automaattisen resoluution vaihdon tapauksessa tallennettu video jaetaan useisiin eri resoluutioilla oleviin leikkeisiin."
+   },
+   "modal_close": {
+      "message": "kiinni"
+   },
+   "modal_confirm": {
+      "message": "Vahvistaa"
+   },
+   "modal_title": {
+      "message": "Vinkkejä"
+   },
+   "more_than_one_day": {
+      "message": "Yli päivä"
+   },
+   "network_error": {
+      "message": "Verkkovirhe!"
+   },
+   "no_cache": {
+      "message": "Paikallista välimuistia ei ole vielä!"
+   },
+   "no_resources": {
+      "message": "Ei latausresursseja"
+   },
+   "no_result": {
+      "message": "Resurssitiedostoa ei löytynyt!"
+   },
+   "no_video": {
+      "message": "Videota ei voi tallentaa tai videota ei ole olemassa!"
+   },
+   "normal_membership": {
+      "message": "Normaali jäsenyys"
+   },
+   "not_support": {
+      "message": "Tätä sivustoa ei tueta"
+   },
+   "options": {
+      "message": "Vaihtoehto"
+   },
+   "play": {
+      "message": "pelata"
+   },
+   "record_complete_clip": {
+      "message": "Koska streamissa on eri resoluutioita, video on jaettu osiin."
+   },
+   "record_error_encryption": {
+      "message": "Videotiedot näyttävät olevan tekijänoikeudella suojattuja."
+   },
+   "recording_complete": {
+      "message": "Nauhoitus valmis!"
+   },
+   "recording_error": {
+      "message": "Tallennusvirhe!"
+   },
+   "request_timed_out": {
+      "message": "Pyyntö aikakatkaistiin!"
+   },
+   "reset": {
+      "message": "Nollaa"
+   },
+   "resources_list_empty": {
+      "message": "Resurssiluettelo on tyhjä!"
+   },
+   "save": {
+      "message": "Tallentaa"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Palvelinyhteys epäonnistui!"
+   },
+   "setting": {
+      "message": "Perustaa"
+   },
+   "setting_success": {
+      "message": "Menestystä asettamassa!"
+   },
+   "size": {
+      "message": "Koko"
+   },
+   "size_filter": {
+      "message": "Kokosuodatus"
+   },
+   "size_filter_desc_1": {
+      "message": "Tällä vaihtoehdolla saat videoita ihanteellisen kokoisina. Jos pienempi on esimerkiksi 1024 kt, alle 1024 kt:n videot ohitetaan. Jos ylempi on 1024 kt, yli 1024 kt:n kokoiset videot ohitetaan. Jos vaihtoehdon arvo on 0, se tarkoittaa, että ei ole rajaa."
+   },
+   "size_filter_desc_2": {
+      "message": "Tämän vaihtoehdon yksikkö on \"KB\". Jos käyttämäsi yksikkö on tavut, MB ja GB, sinun on suoritettava vastaava muunnos. Tässä on muunnossuhde:"
+   },
+   "task_exists": {
+      "message": "Tehtävä on jo olemassa!"
+   },
+   "task_status_stop": {
+      "message": "Tehtävä pidossa..."
+   },
+   "thunks_over_tips": {
+      "message": "Liian monta kappaletta voi aiheuttaa ohjelmaprosessin epäonnistumisen. Tallenna mahdollisimman pian ja aloita uusi tallennus."
+   },
+   "timeout": {
+      "message": "Vanhenemisaika:"
+   },
+   "unable_to_download": {
+      "message": "Ei voi ladata!"
+   },
+   "unknown_mistake": {
+      "message": "Tuntematon virhe!"
+   },
+   "upgrade": {
+      "message": "Päivitä"
+   },
+   "upgrade_renewal": {
+      "message": "Uusi jäsen"
+   },
+   "upper_limit": {
+      "message": "Yläraja"
+   },
+   "user_type": {
+      "message": "Käyttäjätyyppi:"
+   },
+   "visitor": {
+      "message": "Vierailija"
+   },
+   "waiting_for_download": {
+      "message": "Odotetaan latausta..."
+   },
+   "webstore": {
+      "message": "Store"
+   }
+}

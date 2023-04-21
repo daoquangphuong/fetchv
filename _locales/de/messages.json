@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Hinzufügen"
+   },
+   "advanced_membership": {
+      "message": "Erweiterte Mitgliedschaft"
+   },
+   "block": {
+      "message": "Blockiere alle Videos von dieser Domain"
+   },
+   "block_domain_count_limit": {
+      "message": "Sie können bis zu 30 Domains sperren."
+   },
+   "block_success": {
+      "message": "Blockiert erfolgreich! Sie können es in den Einstellungen entfernen."
+   },
+   "bottom_alert": {
+      "message": "Einige Videos müssen möglicherweise abgespielt werden, um Links zu erkennen, also versuchen Sie, sie abzuspielen. Wenn Sie den Link nach dem Spielen immer noch nicht erhalten können, versuchen Sie, die Seite zu aktualisieren, oder holen Sie ihn mit\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Aufnahmemodus\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Cache gelöscht"
+   },
+   "cache_deleteing": {
+      "message": "Cache wird gelöscht:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Daten sind leer, können nicht heruntergeladen werden"
+   },
+   "chunks_count": {
+      "message": "Chunks zählen:"
+   },
+   "close": {
+      "message": "Nah dran"
+   },
+   "conversion_error": {
+      "message": "Konvertierungsfehler!"
+   },
+   "copy": {
+      "message": "Kopieren"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopieren verboten, da Sie keine erweiterte Mitgliedschaft haben"
+   },
+   "copy_success": {
+      "message": "Erfolgreich kopiert."
+   },
+   "current_user": {
+      "message": "Aktiver Nutzer:"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "domain_blocking": {
+      "message": "Domänenabschirmung"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Dateien vom folgenden Domänennamen werden nicht in der Download-Liste angezeigt. Ohne https:// oder http://, wie folgt: www.example.com"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_cached": {
+      "message": "Zwischengespeicherten Teil herunterladen"
+   },
+   "failed_to_get_resource": {
+      "message": "Ressource konnte nicht abgerufen werden!"
+   },
+   "file": {
+      "message": "Dateien"
+   },
+   "format_filter": {
+      "message": "Formatfilterung"
+   },
+   "format_filter_desc_1": {
+      "message": "In der folgenden Liste werden die deaktivierten erweiterten Videotypen beim Grabben ignoriert. Wenn Sie in der Liste unten einen Videotyp nicht benötigen, können Sie ihn deaktivieren."
+   },
+   "help": {
+      "message": "Hilfe"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Heim"
+   },
+   "hour": {
+      "message": "Stunde"
+   },
+   "loading": {
+      "message": "Wird geladen..."
+   },
+   "loading_resources": {
+      "message": "Ressource wird geladen..."
+   },
+   "loading_resources_fail": {
+      "message": "Laden der Ressource fehlgeschlagen!"
+   },
+   "lower_limit": {
+      "message": "Untere Grenze"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV video herunterladen"
+   },
+   "manifest_description": {
+      "message": "Laden Sie alle Arten von Videos online herunter, einschließlich HLS, m3u8, blob, mp4, webm ..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video herunterladen(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Mitgliederzentrum"
+   },
+   "merging_data": {
+      "message": "Daten zusammenführen..."
+   },
+   "merging_data_error": {
+      "message": "Fehler bei der Datenzusammenführung!"
+   },
+   "merging_videos": {
+      "message": "Videos kombinieren..."
+   },
+   "minute": {
+      "message": "Mindest"
+   },
+   "modal_body": {
+      "message": "Wenn das aktuelle Video eine optionale Auflösung hat, stellen Sie bitte sicher, dass Sie statt der automatischen eine feste Auflösung auswählen, da sonst bei schlechten Netzwerkbedingungen die automatische Auflösungsumschaltung das aufgezeichnete Video in mehrere Clips mit unterschiedlichen Auflösungen aufteilt."
+   },
+   "modal_close": {
+      "message": "Nah dran"
+   },
+   "modal_confirm": {
+      "message": "Bestätigen"
+   },
+   "modal_title": {
+      "message": "Tipps"
+   },
+   "more_than_one_day": {
+      "message": "Mehr als einen Tag"
+   },
+   "network_error": {
+      "message": "Netzwerkfehler!"
+   },
+   "no_cache": {
+      "message": "Es ist noch kein lokaler Cache vorhanden!"
+   },
+   "no_resources": {
+      "message": "Keine Download-Ressourcen"
+   },
+   "no_result": {
+      "message": "Keine Ressourcendatei gefunden!"
+   },
+   "no_video": {
+      "message": "Video kann nicht aufgenommen werden oder Video ist nicht vorhanden!"
+   },
+   "normal_membership": {
+      "message": "Normale Mitgliedschaft"
+   },
+   "not_support": {
+      "message": "Diese Website wird nicht unterstützt"
+   },
+   "options": {
+      "message": "Möglichkeit"
+   },
+   "play": {
+      "message": "Spielen"
+   },
+   "record_complete_clip": {
+      "message": "Da die Daten im Stream unterschiedliche Auflösungen haben, wird das Video in Segmente aufgeteilt."
+   },
+   "record_error_encryption": {
+      "message": "Videodaten scheinen urheberrechtlich geschützt zu sein."
+   },
+   "recording_complete": {
+      "message": "Aufnahme abgeschlossen!"
+   },
+   "recording_error": {
+      "message": "Aufnahmefehler!"
+   },
+   "request_timed_out": {
+      "message": "Zeitüberschreitung der Anforderung!"
+   },
+   "reset": {
+      "message": "Zurücksetzen"
+   },
+   "resources_list_empty": {
+      "message": "Die Ressourcenliste ist leer!"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Serververbindung fehlgeschlagen!"
+   },
+   "setting": {
+      "message": "Konfiguration"
+   },
+   "setting_success": {
+      "message": "Einstellungserfolg!"
+   },
+   "size": {
+      "message": "Größe"
+   },
+   "size_filter": {
+      "message": "Größenfilterung"
+   },
+   "size_filter_desc_1": {
+      "message": "Mit dieser Option erhalten Sie Videos in idealer Größe. Wenn der niedrigere Wert beispielsweise 1024 KB beträgt, werden Videos, die kleiner als 1024 KB sind, ignoriert. Wenn die Obergrenze 1024 KB beträgt, werden Videos, die größer als 1024 KB sind, ignoriert. Wenn der Optionswert 0 ist, bedeutet dies keine Begrenzung."
+   },
+   "size_filter_desc_2": {
+      "message": "Die Einheit dieser Option ist \"KB\". Wenn die von Ihnen verwendete Einheit Bytes, MB und GB ist, müssen Sie eine entsprechende Umrechnung vornehmen. Hier ist die Umrechnungsbeziehung:"
+   },
+   "task_exists": {
+      "message": "Aufgabe ist bereits vorhanden!"
+   },
+   "task_status_stop": {
+      "message": "Aufgabe ist angehalten..."
+   },
+   "thunks_over_tips": {
+      "message": "Zu viele Chunks können dazu führen, dass der Programmablauf fehlschlägt, bitte speichern Sie so schnell wie möglich und starten Sie eine neue Aufnahme."
+   },
+   "timeout": {
+      "message": "Ablaufzeit:"
+   },
+   "unable_to_download": {
+      "message": "Kann nicht heruntergeladen werden!"
+   },
+   "unknown_mistake": {
+      "message": "Unbekannter Fehler!"
+   },
+   "upgrade": {
+      "message": "Aktualisierung"
+   },
+   "upgrade_renewal": {
+      "message": "Mitgliedschaft erneuern"
+   },
+   "upper_limit": {
+      "message": "Obergrenze"
+   },
+   "user_type": {
+      "message": "Benutzertyp:"
+   },
+   "visitor": {
+      "message": "Besucher"
+   },
+   "waiting_for_download": {
+      "message": "Warten auf Download..."
+   },
+   "webstore": {
+      "message": "Speichern"
+   }
+}

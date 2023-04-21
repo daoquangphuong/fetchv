@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "เพิ่ม"
+   },
+   "advanced_membership": {
+      "message": "สมาชิกขั้นสูง"
+   },
+   "block": {
+      "message": "บล็อกวิดีโอทั้งหมดจากโดเมนนี้"
+   },
+   "block_domain_count_limit": {
+      "message": "คุณสามารถบล็อกได้ถึง 30 โดเมน"
+   },
+   "block_success": {
+      "message": "บล็อคสำเร็จ! คุณสามารถลบออกได้ในการตั้งค่า"
+   },
+   "bottom_alert": {
+      "message": "อาจจำเป็นต้องเล่นวิดีโอบางรายการเพื่อตรวจหาลิงก์ ดังนั้นให้ลองเล่นดู หากเล่นแล้วยังไม่ได้รับลิงค์ ให้ลองรีเฟรชหน้าหรือโหลดด้วย\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">โหมดบันทึก\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "แคชถูกลบ"
+   },
+   "cache_deleteing": {
+      "message": "แคชจะถูกลบ:"
+   },
+   "cannot_be_downloaded": {
+      "message": "ข้อมูลว่างเปล่าไม่สามารถดาวน์โหลด"
+   },
+   "chunks_count": {
+      "message": "ชิ้นนับ:"
+   },
+   "close": {
+      "message": "ปิด I"
+   },
+   "conversion_error": {
+      "message": "เกิดข้อผิดพลาดในการแปลง!"
+   },
+   "copy": {
+      "message": "สำเนา"
+   },
+   "copy_need_upgrade": {
+      "message": "ห้ามคัดลอกเนื่องจากคุณไม่ใช่สมาชิกขั้นสูง"
+   },
+   "copy_success": {
+      "message": "คัดลอกเรียบร้อยแล้ว"
+   },
+   "current_user": {
+      "message": "ผู้ใช้ที่ใช้งานอยู่："
+   },
+   "delete": {
+      "message": "ลบ"
+   },
+   "domain": {
+      "message": "โดเมน"
+   },
+   "domain_blocking": {
+      "message": "การป้องกันโดเมน"
+   },
+   "domain_blocking_desc_1": {
+      "message": "ไฟล์จากชื่อโดเมนต่อไปนี้จะไม่ปรากฏในรายการดาวน์โหลด ไม่มี https:// หรือ http:// เช่น www.example.com"
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "download_cached": {
+      "message": "ดาวน์โหลดแคช part"
+   },
+   "failed_to_get_resource": {
+      "message": "ล้มเหลวในการรับทรัพยากร!"
+   },
+   "file": {
+      "message": "ไฟล์"
+   },
+   "format_filter": {
+      "message": "การกรองรูปแบบ"
+   },
+   "format_filter_desc_1": {
+      "message": "ในรายการต่อไปนี้ ประเภทวิดีโอขยายที่ปิดใช้งานจะถูกละเว้นเมื่อจับ หากมีประเภทวิดีโอในรายการด้านล่างที่คุณไม่ต้องการ คุณสามารถปิดใช้งานได้"
+   },
+   "help": {
+      "message": "ช่วย"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "บ้าน"
+   },
+   "hour": {
+      "message": "ชั่วโมง"
+   },
+   "loading": {
+      "message": "กำลังโหลด..."
+   },
+   "loading_resources": {
+      "message": "กำลังโหลดทรัพยากร..."
+   },
+   "loading_resources_fail": {
+      "message": "การโหลดทรัพยากรล้มเหลว!"
+   },
+   "lower_limit": {
+      "message": "ขีดจำกัดล่าง"
+   },
+   "manifest_browser_action": {
+      "message": "ดาวน์โหลดวิดีโอ FetchV"
+   },
+   "manifest_description": {
+      "message": "ดาวน์โหลดวิดีโอออนไลน์ทุกประเภท รวมถึง HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:ดาวน์โหลดวิดีโอ(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "ศูนย์สมาชิก"
+   },
+   "merging_data": {
+      "message": "กำลังผสานข้อมูล..."
+   },
+   "merging_data_error": {
+      "message": "ข้อผิดพลาดในการผสานข้อมูล!"
+   },
+   "merging_videos": {
+      "message": "กำลังรวมวิดีโอ..."
+   },
+   "minute": {
+      "message": "นาที"
+   },
+   "modal_body": {
+      "message": "หากวิดีโอปัจจุบันมีความละเอียดที่เป็นตัวเลือก โปรดตรวจสอบให้แน่ใจว่าได้เลือกความละเอียดคงที่แทนที่จะเป็นแบบอัตโนมัติ มิฉะนั้น ในกรณีที่เครือข่ายไม่ดี การสลับความละเอียดอัตโนมัติ วิดีโอที่บันทึกจะถูกแบ่งออกเป็นหลายคลิปที่มีความละเอียดต่างกัน"
+   },
+   "modal_close": {
+      "message": "ปิด I"
+   },
+   "modal_confirm": {
+      "message": "ยืนยัน"
+   },
+   "modal_title": {
+      "message": "เคล็ดลับ"
+   },
+   "more_than_one_day": {
+      "message": "มากกว่าหนึ่งวัน"
+   },
+   "network_error": {
+      "message": "เครือข่ายผิดพลาด!"
+   },
+   "no_cache": {
+      "message": "ยังไม่มีแคชในเครื่อง!"
+   },
+   "no_resources": {
+      "message": "ไม่มีทรัพยากรดาวน์โหลด"
+   },
+   "no_result": {
+      "message": "ไม่พบไฟล์ทรัพยากร!"
+   },
+   "no_video": {
+      "message": "ไม่สามารถบันทึกวิดีโอหรือไม่มีวิดีโออยู่!"
+   },
+   "normal_membership": {
+      "message": "สมาชิกธรรมดา"
+   },
+   "not_support": {
+      "message": "ไม่รองรับเว็บไซต์นี้"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "play": {
+      "message": "เล่น"
+   },
+   "record_complete_clip": {
+      "message": "เนื่องจากมีความละเอียดของข้อมูลต่างกันในสตรีม วิดีโอจึงถูกแบ่งออกเป็นส่วนๆ"
+   },
+   "record_error_encryption": {
+      "message": "ข้อมูลวิดีโอดูเหมือนจะมีลิขสิทธิ์"
+   },
+   "recording_complete": {
+      "message": "บันทึกเสร็จแล้ว!"
+   },
+   "recording_error": {
+      "message": "บันทึกผิดพลาด!"
+   },
+   "request_timed_out": {
+      "message": "คำขอหมดเวลา!"
+   },
+   "reset": {
+      "message": "รีเซ็ต"
+   },
+   "resources_list_empty": {
+      "message": "รายการทรัพยากรว่างเปล่า!"
+   },
+   "save": {
+      "message": "บันทึก"
+   },
+   "second": {
+      "message": "ส"
+   },
+   "server_connection_failed": {
+      "message": "การเชื่อมต่อเซิร์ฟเวอร์ล้มเหลว!"
+   },
+   "setting": {
+      "message": "ติดตั้ง"
+   },
+   "setting_success": {
+      "message": "ตั้งเป้าสำเร็จ!"
+   },
+   "size": {
+      "message": "ขนาด"
+   },
+   "size_filter": {
+      "message": "การกรองขนาด"
+   },
+   "size_filter_desc_1": {
+      "message": "คุณสามารถรับวิดีโอในขนาดที่เหมาะสมด้วยตัวเลือกนี้ ตัวอย่างเช่น หากต่ำกว่า 1024KB วิดีโอที่เล็กกว่า 1024KB จะถูกละเว้น หากด้านบนคือ 1024KB วิดีโอที่มีขนาดใหญ่กว่า 1024KB จะถูกละเว้น หากค่าตัวเลือกเป็น 0 แสดงว่าไม่มีขีดจำกัด"
+   },
+   "size_filter_desc_2": {
+      "message": "หน่วยของตัวเลือกนี้คือ \"KB\" หากหน่วยที่คุณใช้คือ Bytes, MB และ GB คุณต้องทำการแปลงที่สอดคล้องกัน นี่คือความสัมพันธ์ในการแปลง:"
+   },
+   "task_exists": {
+      "message": "มีงานอยู่แล้ว!"
+   },
+   "task_status_stop": {
+      "message": "ภารกิจถูกระงับ..."
+   },
+   "thunks_over_tips": {
+      "message": "ชิ้นมากเกินไปอาจทำให้กระบวนการโปรแกรมล้มเหลว โปรดบันทึกโดยเร็วที่สุดและเริ่มการบันทึกใหม่"
+   },
+   "timeout": {
+      "message": "เวลาหมดอายุ:"
+   },
+   "unable_to_download": {
+      "message": "โหลดไม่ได้!"
+   },
+   "unknown_mistake": {
+      "message": "ผิดพลาดไม่รู้เรื่อง!"
+   },
+   "upgrade": {
+      "message": "อัพเกรด"
+   },
+   "upgrade_renewal": {
+      "message": "ต่ออายุสมาชิก"
+   },
+   "upper_limit": {
+      "message": "ขีดจำกัดบน"
+   },
+   "user_type": {
+      "message": "ประเภทผู้ใช้:"
+   },
+   "visitor": {
+      "message": "ผู้มาเยือน"
+   },
+   "waiting_for_download": {
+      "message": "กำลังรอการดาวน์โหลด..."
+   },
+   "webstore": {
+      "message": "เก็บ"
+   }
+}

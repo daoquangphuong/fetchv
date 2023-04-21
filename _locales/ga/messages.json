@@ -1,0 +1,257 @@
+{
+  "manifest_name": {
+    "message": "FetchV:Tiománaí video downloader(HLS/m3u8/mp4/blob)"
+  },
+  "manifest_browser_action": {
+    "message": "FetchV video downloader"
+  },
+  "manifest_description": {
+    "message": "Íoslódáil gach cineál físeáin ar líne, lena n-áirítear HLS, m3u8, blob, mp4, webm ..."
+  },
+  "home": {
+    "message": "Baile"
+  },
+  "upgrade": {
+    "message": "Uasghrádú"
+  },
+  "member": {
+    "message": "Ionad na mBall"
+  },
+  "setting": {
+    "message": "Socraigh suas"
+  },
+  "loading": {
+    "message": "Á lódáil..."
+  },
+  "no_result": {
+    "message": "Níor aimsíodh aon chomhad acmhainne!"
+  },
+  "file": {
+    "message": "Comhaid"
+  },
+  "size": {
+    "message": "Méid"
+  },
+  "options": {
+    "message": "Rogha"
+  },
+  "download": {
+    "message": "Íosluchtaigh"
+  },
+  "copy": {
+    "message": "Cóipeáil"
+  },
+  "play": {
+    "message": "Imirt"
+  },
+  "block": {
+    "message": "Cuir bac ar gach físeán ón bhfearann ​​seo"
+  },
+  "close": {
+    "message": "Dún"
+  },
+  "bottom_alert": {
+    "message": "Seans go mbeidh gá le roinnt físeáin a sheinm chun naisc a bhrath, mar sin déan iarracht iad a sheinm. Murar féidir an nasc a fháil fós tar éis an tseinm, bain triail as an leathanach a athnuachan, nó faigh leis<b data-record=\"\" class=\"btn btn-sm btn-dark\">Modh taifeadta</b>"
+  },
+  "copy_need_upgrade": {
+    "message": "Tá cóipeáil toirmiscthe toisc nach ardbhallraíocht thú"
+  },
+  "block_domain_count_limit": {
+    "message": "Is féidir leat suas le 30 fearann ​​a bhlocáil."
+  },
+  "block_success": {
+    "message": "Blocked éirigh! Is féidir leat é a bhaint i socruithe."
+  },
+  "copy_success": {
+    "message": "D'éirigh le cóipeáil."
+  },
+  "hls": {
+    "message": "HLS"
+  },
+  "reset": {
+    "message": "Athshocraigh"
+  },
+  "save": {
+    "message": "Sábháil"
+  },
+  "current_user": {
+    "message": "Úsáideoir gníomhach:"
+  },
+  "upgrade_renewal": {
+    "message": "Ballraíocht a athnuachan"
+  },
+  "user_type": {
+    "message": "Cineál úsáideora:"
+  },
+  "timeout": {
+    "message": "Am éaga:"
+  },
+  "size_filter": {
+    "message": "Méid scagadh"
+  },
+  "size_filter_desc_1": {
+    "message": "Is féidir leat físeáin a fháil i méid idéalach leis an rogha seo. Mar shampla, más é 1024KB an ceann is ísle, ní thabharfar aird ar fhíseáin níos lú ná 1024KB. Más é 1024KB an chuid uachtarach, ní thabharfar aird ar fhíseáin níos mó ná 1024KB. Más é 0 an luach rogha, ciallaíonn sé gan teorainn."
+  },
+  "size_filter_desc_2": {
+    "message": "Is é \"KB\" aonad an rogha seo. Más é Bytes, MB agus GB an t-aonad a úsáideann tú, ní mór duit tiontú comhfhreagrach a dhéanamh. Seo é an caidreamh comhshó:"
+  },
+  "lower_limit": {
+    "message": "Teorainn níos ísle"
+  },
+  "upper_limit": {
+    "message": "Uasteorainn"
+  },
+  "format_filter": {
+    "message": "Scagadh formáide"
+  },
+  "format_filter_desc_1": {
+    "message": "Sa liosta seo a leanas, ní thabharfar aird ar na cineálacha físeáin leathnaithe faoi mhíchumas agus tú ag gabháil. Má tá cineál físeáin sa liosta thíos nach bhfuil uait, is féidir leat é a dhíchumasú."
+  },
+  "domain_blocking": {
+    "message": "Sciath fearainn"
+  },
+  "domain_blocking_desc_1": {
+    "message": "Ní thaispeánfar comhaid ón ainm fearainn seo a leanas sa liosta íoslódála. Sin https:// nó http://, mar seo: www.example.com"
+  },
+  "domain": {
+    "message": "Fearann"
+  },
+  "delete": {
+    "message": "Scrios"
+  },
+  "add": {
+    "message": "Cuir"
+  },
+  "help": {
+    "message": "Cabhrú"
+  },
+  "webstore": {
+    "message": "Stóráil"
+  },
+  "setting_success": {
+    "message": "Rath a shocrú!"
+  },
+  "advanced_membership": {
+    "message": "Ardbhallraíocht"
+  },
+  "normal_membership": {
+    "message": "Gnáthbhallraíocht"
+  },
+  "visitor": {
+    "message": "Cuairteoir"
+  },
+  "second": {
+    "message": "s"
+  },
+  "minute": {
+    "message": "nóim"
+  },
+  "hour": {
+    "message": "uair"
+  },
+  "more_than_one_day": {
+    "message": "Níos mó ná lá"
+  },
+  "task_status_stop": {
+    "message": "Tá an tasc ar feitheamh..."
+  },
+  "loading_resources": {
+    "message": "Acmhainní á lódáil..."
+  },
+  "loading_resources_fail": {
+    "message": "Theip ar ualach acmhainne!"
+  },
+  "resources_list_empty": {
+    "message": "Tá an liosta acmhainní folamh!"
+  },
+  "no_resources": {
+    "message": "Gan acmhainní íoslódáil"
+  },
+  "waiting_for_download": {
+    "message": "Ag fanacht le haghaidh a íoslódáil.."
+  },
+  "merging_videos": {
+    "message": "Físeáin á gcomhcheangal…"
+  },
+  "no_cache": {
+    "message": "Níl aon taisce áitiúil fós!"
+  },
+  "download_cached": {
+    "message": "Íoslódáil an chuid is fearr i dtaisce"
+  },
+  "cache_deleteing": {
+    "message": "Scriosfar an taisce:"
+  },
+  "cache_deleted": {
+    "message": "Scriosadh an taisce"
+  },
+  "merging_data": {
+    "message": "Sonraí á gcumasc..."
+  },
+  "merging_data_error": {
+    "message": "Earráid chumasc sonraí!"
+  },
+  "unable_to_download": {
+    "message": "Ní féidir a íoslódáil!"
+  },
+  "cannot_be_downloaded": {
+    "message": "Tá na sonraí folamh, ní féidir iad a íoslódáil"
+  },
+  "recording_complete": {
+    "message": "Taifeadadh críochnaithe!"
+  },
+  "recording_error": {
+    "message": "Earráid taifeadta!"
+  },
+  "no_video": {
+    "message": "Ní féidir físeán a thaifeadadh, nó níl an físeán ann!"
+  },
+  "request_timed_out": {
+    "message": "Iarratas imithe thar am!"
+  },
+  "network_error": {
+    "message": "Earráid Líonra!"
+  },
+  "unknown_mistake": {
+    "message": "Botún anaithnid!"
+  },
+  "failed_to_get_resource": {
+    "message": "Theip ar acmhainn a fháil!"
+  },
+  "task_exists": {
+    "message": "Tá an tasc ann cheana féin!"
+  },
+  "not_support": {
+    "message": "Ní thacaítear leis an suíomh seo"
+  },
+  "conversion_error": {
+    "message": "Earráid chomhshó!"
+  },
+  "server_connection_failed": {
+    "message": "Theip ar cheangal an fhreastalaí!"
+  },
+  "record_complete_clip": {
+    "message": "Toisc go bhfuil réitigh dhifriúla sonraí sa sruth, roinntear an físeán ina dheighleoga."
+  },
+  "record_error_encryption": {
+    "message": "Is cosúil go bhfuil cóipcheart ar shonraí físeáin."
+  },
+  "modal_title": {
+    "message": "Leideanna"
+  },
+  "modal_body": {
+    "message": "Má tá rún roghnach ag an bhfíseán atá ann faoi láthair, le do thoil déan cinnte réiteach seasta a roghnú seachas uathoibríoch, ar shlí eile i gcás droch-choinníollacha líonra, aistriú réitigh uathoibríoch, déanfar an físeán taifeadta a roinnt ina il clips de rúin éagsúla."
+  },
+  "modal_confirm": {
+    "message": "Deimhnigh"
+  },
+  "modal_close": {
+    "message": "Dún"
+  },
+  "chunks_count": {
+    "message": "Smaointe a chomhaireamh:"
+  },
+  "thunks_over_tips": {
+    "message": "Seans go dteipfidh ar phróiseas an chláir an iomarca smután, sábháil chomh luath agus is féidir agus cuir tús le taifeadadh nua."
+  }
+}

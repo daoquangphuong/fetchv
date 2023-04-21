@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>OPTIONS</title>
+    <!-- CSS only -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>.fs-7 {font-size: 14px;}</style>
+</head>
+<body class="bg-light">
+<header class="p-3 bg-dark text-white sticky-top bg-opacity-75">
+    <div class="container">
+        <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+            <h4 class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
+                FetchV
+            </h4>
+            <div class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0"></div>
+            <div class="text-end">
+                <button lang-text btn-reset type="button" class="btn btn-light me-2">reset</button>
+                <button lang-text btn-save type="button" class="btn btn-warning">save</button>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="text-center position-relative py-2 mb-1 mt-3">
+    <div class="border-top position-absolute w-100 top-50"></div>
+    <h4 lang-text class="d-inline-block bg-light position-relative px-1">size_filter</h4>
+</div>
+<div class="bg-white shadow py-4 mb-5">
+    <div class="container" style="max-width: 860px">
+        <p lang-text class="text-black-50">size_filter_desc_1</p>
+        <p lang-text class="text-black-50">size_filter_desc_2</p>
+        <ul class="text-black-50">
+            <li>1Bytes = 1/1024KB</li>
+            <li>1MB = 1024KB</li>
+            <li>1GB = 1024*1024KB</li>
+        </ul>
+        <div class="border py-4 px-2 bg-light shadow-sm mb-3">
+            <div class="row">
+                <div class="col-md-6 mb-2">
+                    <span lang-text class="d-inline-block">lower_limit</span>
+                    <div class="d-inline-block"><input name="min" value="0" type="number" class="form-control"></div>
+                    <span class="d-inline-block text-black-50">KB</span>
+                </div>
+                <div class="col-md-6 mb-2">
+                    <span lang-text class="d-inline-block">upper_limit</span>
+                    <div class="d-inline-block"><input name="max" value="0" type="number" class="form-control"></div>
+                    <span class="d-inline-block text-black-50">KB</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center position-relative py-2 mb-1">
+    <div class="border-top position-absolute w-100 top-50"></div>
+    <h4 lang-text class="d-inline-block bg-light position-relative px-1">format_filter</h4>
+</div>
+<div class="bg-white shadow py-4 mb-5">
+    <div class="container" style="max-width: 860px">
+        <p lang-text class="text-black-50">format_filter_desc_1</p>
+        <div class="row mb-5">
+            <div object-ext class="col-md-4 mb-3 d-none">
+                <div class="form-check form-switch pb-2 border-bottom">
+                    <label>
+                        <input name="ext" value="" class="form-check-input" type="checkbox" role="switch" style="height: 1.5em; width: 3em;">
+                        <span class="form-check-label text-uppercase text-black-50 pt-1 ps-1"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="text-center position-relative py-2 mb-1">
+    <div class="border-top position-absolute w-100 top-50"></div>
+    <h4 lang-text class="d-inline-block bg-light position-relative px-1">domain_blocking</h4>
+</div>
+
+<div class="bg-white shadow py-4 mb-5">
+    <div class="container" style="max-width: 860px">
+        <p lang-text class="text-black-50">domain_blocking_desc_1</p>
+        <table data-domain class="table table-hover">
+            <thead>
+            <tr>
+                <th lang-text scope="col">domain</th>
+                <th lang-text scope="col">options</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr object-domain class="d-none">
+                <td>
+                    <input name="domain" type="text" class="form-control" value="">
+                </td>
+                <td>
+                    <button lang-text btn-delete class="btn btn-sm btn-info mt-1">delete</button>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div class="mb-5">
+            <button lang-text btn-domain-add class="btn btn-primary">add</button>
+        </div>
+    </div>
+</div>
+
+<footer class="pb-3 pt-5 bg-dark">
+    <div class="container-xxl">
+        <a href="https://fetchv.net/" target="_blank" menu-home class="text-white-50 text-decoration-none me-3">FetchV</a>
+        <a href="https://fetchv.net/help" target="_blank" lang-text menu-help class="text-white-50 text-decoration-none me-3">help</a>
+    </div>
+</footer>
+
+<div id="layer" class="fixed-bottom w-100 pb-5 mb-5 d-none">
+    <div lang-text class="alert alert-success text-center mx-auto shadow-lg" style="max-width: 360px;">setting_success</div>
+</div>
+
+<script src="libs/jquery-3.6.0.min.js"></script>
+<script src="js/options.js"></script>
+</body>
+</html>

@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Přidat"
+   },
+   "advanced_membership": {
+      "message": "Pokročilé členství"
+   },
+   "block": {
+      "message": "Blokovat všechna videa z této domény"
+   },
+   "block_domain_count_limit": {
+      "message": "Můžete zablokovat až 30 domén."
+   },
+   "block_success": {
+      "message": "Zablokování bylo úspěšné! Můžete jej odstranit v nastavení."
+   },
+   "bottom_alert": {
+      "message": "Některá videa může být nutné přehrát, aby bylo možné zjistit odkazy, zkuste je tedy přehrát. Pokud po přehrání stále nemůžete získat odkaz, zkuste obnovit stránku nebo ji získat\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Režim nahrávání\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Mezipaměť smazána"
+   },
+   "cache_deleteing": {
+      "message": "Cache bude smazána:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Data jsou prázdná, nelze je stáhnout"
+   },
+   "chunks_count": {
+      "message": "Počet kusů:"
+   },
+   "close": {
+      "message": "Zavřít"
+   },
+   "conversion_error": {
+      "message": "Chyba převodu!"
+   },
+   "copy": {
+      "message": "kopírovat"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopírování zakázáno, protože nejste pokročilí členství"
+   },
+   "copy_success": {
+      "message": "Úspěšně zkopírováno."
+   },
+   "current_user": {
+      "message": "Aktivní uživatel:"
+   },
+   "delete": {
+      "message": "Vymazat"
+   },
+   "domain": {
+      "message": "Doména"
+   },
+   "domain_blocking": {
+      "message": "Stínění domény"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Soubory z následujícího názvu domény se v seznamu ke stažení nezobrazí. Bez https:// nebo http://, jako je tento: www.example.com"
+   },
+   "download": {
+      "message": "Stažení"
+   },
+   "download_cached": {
+      "message": "Stáhnout část uloženou v mezipaměti"
+   },
+   "failed_to_get_resource": {
+      "message": "Nepodařilo se získat zdroj!"
+   },
+   "file": {
+      "message": "Soubory"
+   },
+   "format_filter": {
+      "message": "Filtrování formátu"
+   },
+   "format_filter_desc_1": {
+      "message": "V následujícím seznamu budou deaktivované rozšířené typy videa při zachycení ignorovány. Pokud je v seznamu níže typ videa, který nepotřebujete, můžete jej zakázat."
+   },
+   "help": {
+      "message": "Pomoc"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Domov"
+   },
+   "hour": {
+      "message": "hodina"
+   },
+   "loading": {
+      "message": "Načítání..."
+   },
+   "loading_resources": {
+      "message": "Načítání zdrojů..."
+   },
+   "loading_resources_fail": {
+      "message": "Načtení zdroje se nezdařilo!"
+   },
+   "lower_limit": {
+      "message": "Spodní limit"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV video ke stažení"
+   },
+   "manifest_description": {
+      "message": "Stahujte všechny druhy videí online, včetně HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Video ke stažení insis(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Členské centrum"
+   },
+   "merging_data": {
+      "message": "Slučování dat..."
+   },
+   "merging_data_error": {
+      "message": "Chyba sloučení dat!"
+   },
+   "merging_videos": {
+      "message": "Kombinování videí..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Pokud má aktuální video volitelné rozlišení, ujistěte se, že jste zvolili pevné rozlišení namísto automatického, jinak v případě špatných podmínek sítě, automatické přepínání rozlišení, bude nahrané video rozděleno do více klipů různých rozlišení."
+   },
+   "modal_close": {
+      "message": "Zavřít"
+   },
+   "modal_confirm": {
+      "message": "Potvrdit"
+   },
+   "modal_title": {
+      "message": "Tipy"
+   },
+   "more_than_one_day": {
+      "message": "Více než jeden den"
+   },
+   "network_error": {
+      "message": "Chyba sítě!"
+   },
+   "no_cache": {
+      "message": "Zatím není uložena žádná místní mezipaměť!"
+   },
+   "no_resources": {
+      "message": "Žádné zdroje ke stažení"
+   },
+   "no_result": {
+      "message": "Nebyl nalezen žádný zdrojový soubor!"
+   },
+   "no_video": {
+      "message": "Video nelze nahrát nebo video neexistuje!"
+   },
+   "normal_membership": {
+      "message": "Normální členství"
+   },
+   "not_support": {
+      "message": "Tato stránka není podporována"
+   },
+   "options": {
+      "message": "Volba"
+   },
+   "play": {
+      "message": "Hrát si"
+   },
+   "record_complete_clip": {
+      "message": "Vzhledem k tomu, že ve streamu jsou různá rozlišení dat, je video rozděleno na segmenty."
+   },
+   "record_error_encryption": {
+      "message": "Zdá se, že data videa jsou chráněna autorským právem."
+   },
+   "recording_complete": {
+      "message": "Nahrávání dokončeno!"
+   },
+   "recording_error": {
+      "message": "Chyba záznamu!"
+   },
+   "request_timed_out": {
+      "message": "Vypršel časový limit žádosti!"
+   },
+   "reset": {
+      "message": "Resetovat"
+   },
+   "resources_list_empty": {
+      "message": "Seznam zdrojů je prázdný!"
+   },
+   "save": {
+      "message": "Uložit"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Připojení k serveru se nezdařilo!"
+   },
+   "setting": {
+      "message": "Založit"
+   },
+   "setting_success": {
+      "message": "Nastavení úspěchu!"
+   },
+   "size": {
+      "message": "Velikost"
+   },
+   "size_filter": {
+      "message": "Filtrování velikosti"
+   },
+   "size_filter_desc_1": {
+      "message": "Pomocí této možnosti můžete získat videa v ideální velikosti. Pokud je například nižší velikost 1024 kB, videa menší než 1024 kB budou ignorována. Pokud je horní 1024 kB, videa větší než 1024 kB budou ignorována. Pokud je hodnota možnosti 0, znamená to bez omezení."
+   },
+   "size_filter_desc_2": {
+      "message": "Jednotkou této možnosti je \"KB\". Pokud používáte jednotku Byty, MB a GB, musíte provést odpovídající převod. Zde je konverzní vztah:"
+   },
+   "task_exists": {
+      "message": "Úkol již existuje!"
+   },
+   "task_status_stop": {
+      "message": "Úkol je pozastaven..."
+   },
+   "thunks_over_tips": {
+      "message": "Příliš mnoho kousků může způsobit selhání procesu programu, prosím uložte co nejdříve a spusťte nový záznam."
+   },
+   "timeout": {
+      "message": "Doba platnosti:"
+   },
+   "unable_to_download": {
+      "message": "Nelze stáhnout!"
+   },
+   "unknown_mistake": {
+      "message": "Neznámá chyba!"
+   },
+   "upgrade": {
+      "message": "Vylepšit"
+   },
+   "upgrade_renewal": {
+      "message": "Obnovit členství"
+   },
+   "upper_limit": {
+      "message": "Horní limit"
+   },
+   "user_type": {
+      "message": "Typ uživatele:"
+   },
+   "visitor": {
+      "message": "Návštěvník"
+   },
+   "waiting_for_download": {
+      "message": "Čekání na stažení..."
+   },
+   "webstore": {
+      "message": "Ukládat"
+   }
+}

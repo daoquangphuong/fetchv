@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Lägg till"
+   },
+   "advanced_membership": {
+      "message": "Avancerat medlemskap"
+   },
+   "block": {
+      "message": "Blockera alla videor från den här domänen"
+   },
+   "block_domain_count_limit": {
+      "message": "Du kan blockera upp till 30 domäner."
+   },
+   "block_success": {
+      "message": "Blockeringen lyckades! Du kan ta bort det i inställningarna."
+   },
+   "bottom_alert": {
+      "message": "Vissa videor kan behöva spelas för att upptäcka länkar, så försök spela upp dem. Om du fortfarande inte kan få länken efter att ha spelat, försök att uppdatera sidan, eller hämta den\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Inspelningsläge\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Cache raderad"
+   },
+   "cache_deleteing": {
+      "message": "Cache kommer att raderas:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Data är tom, kan inte laddas ner"
+   },
+   "chunks_count": {
+      "message": "Bitar räknas:"
+   },
+   "close": {
+      "message": "Stänga"
+   },
+   "conversion_error": {
+      "message": "Konverteringsfel!"
+   },
+   "copy": {
+      "message": "Kopiera"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopierat förbjudet eftersom du inte är avancerad medlemskap"
+   },
+   "copy_success": {
+      "message": "Kopierades framgångsrikt."
+   },
+   "current_user": {
+      "message": "Aktiv användare:"
+   },
+   "delete": {
+      "message": "Radera"
+   },
+   "domain": {
+      "message": "Domän"
+   },
+   "domain_blocking": {
+      "message": "Domänavskärmning"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Filer från följande domännamn kommer inte att visas i nedladdningslistan. Utan https:// eller http://, så här: www.example.com"
+   },
+   "download": {
+      "message": "Ladda ner"
+   },
+   "download_cached": {
+      "message": "Ladda ner cachad del"
+   },
+   "failed_to_get_resource": {
+      "message": "Det gick inte att hämta resurs!"
+   },
+   "file": {
+      "message": "Filer"
+   },
+   "format_filter": {
+      "message": "Formatfiltrering"
+   },
+   "format_filter_desc_1": {
+      "message": "I följande lista kommer de inaktiverade utökade videotyperna att ignoreras när du griper. Om det finns en videotyp i listan nedan som du inte behöver kan du inaktivera den."
+   },
+   "help": {
+      "message": "Hjälp"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Hem"
+   },
+   "hour": {
+      "message": "timme"
+   },
+   "loading": {
+      "message": "Läser in..."
+   },
+   "loading_resources": {
+      "message": "Resurs laddar..."
+   },
+   "loading_resources_fail": {
+      "message": "Resursladdning misslyckades!"
+   },
+   "lower_limit": {
+      "message": "Lägre gräns"
+   },
+   "manifest_browser_action": {
+      "message": "FetchV ladda ner video downloader"
+   },
+   "manifest_description": {
+      "message": "Ladda ner alla typer av videor online, inklusive HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Ladda ner video downloader(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Medlemscenter"
+   },
+   "merging_data": {
+      "message": "Sammanfogar data..."
+   },
+   "merging_data_error": {
+      "message": "Datasammanslagningsfel!"
+   },
+   "merging_videos": {
+      "message": "Kombinerar videor..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Om den aktuella videon har en valfri upplösning, se till att välja en fast upplösning istället för automatisk, annars vid dåliga nätverksförhållanden, automatisk upplösningsväxling, kommer den inspelade videon att delas upp i flera klipp med olika upplösningar."
+   },
+   "modal_close": {
+      "message": "Stänga"
+   },
+   "modal_confirm": {
+      "message": "Bekräfta"
+   },
+   "modal_title": {
+      "message": "Tips"
+   },
+   "more_than_one_day": {
+      "message": "Mer än en dag"
+   },
+   "network_error": {
+      "message": "Nätverksfel!"
+   },
+   "no_cache": {
+      "message": "Det finns ingen lokal cachad ännu!"
+   },
+   "no_resources": {
+      "message": "Inga nedladdningsresurser"
+   },
+   "no_result": {
+      "message": "Ingen resursfil hittades!"
+   },
+   "no_video": {
+      "message": "Video kan inte spelas in, eller så finns det inte video!"
+   },
+   "normal_membership": {
+      "message": "Normalt medlemskap"
+   },
+   "not_support": {
+      "message": "Denna webbplats stöds inte"
+   },
+   "options": {
+      "message": "Alternativ"
+   },
+   "play": {
+      "message": "Spela"
+   },
+   "record_complete_clip": {
+      "message": "Eftersom det finns olika upplösning av data i strömmen delas videon upp i segment."
+   },
+   "record_error_encryption": {
+      "message": "Videodata verkar vara upphovsrättsskyddat."
+   },
+   "recording_complete": {
+      "message": "Inspelningen är klar!"
+   },
+   "recording_error": {
+      "message": "Inspelningsfel!"
+   },
+   "request_timed_out": {
+      "message": "Begäran tog för lång tid!"
+   },
+   "reset": {
+      "message": "Återställa"
+   },
+   "resources_list_empty": {
+      "message": "Resurslistan är tom!"
+   },
+   "save": {
+      "message": "Spara"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Serveranslutningen misslyckades!"
+   },
+   "setting": {
+      "message": "Uppstart"
+   },
+   "setting_success": {
+      "message": "Sätter framgång!"
+   },
+   "size": {
+      "message": "Storlek"
+   },
+   "size_filter": {
+      "message": "Storleksfiltrering"
+   },
+   "size_filter_desc_1": {
+      "message": "Du kan få videor i ideal storlek med det här alternativet. Till exempel, om den lägre är 1024KB, kommer videor mindre än 1024KB att ignoreras. Om den övre är 1024KB ignoreras videor större än 1024KB. Om optionvärdet är 0 betyder det ingen gräns."
+   },
+   "size_filter_desc_2": {
+      "message": "Enheten för detta alternativ är \"KB\". Om enheten du använder är Bytes, MB och GB måste du göra motsvarande konvertering. Här är omvandlingsförhållandet:"
+   },
+   "task_exists": {
+      "message": "Uppgiften finns redan!"
+   },
+   "task_status_stop": {
+      "message": "Uppgiften är pausad..."
+   },
+   "thunks_over_tips": {
+      "message": "För många bitar kan orsaka att programprocessen misslyckas, spara så snart som möjligt och starta en ny inspelning."
+   },
+   "timeout": {
+      "message": "Utgångstid:"
+   },
+   "unable_to_download": {
+      "message": "Kunde inte hämtas!"
+   },
+   "unknown_mistake": {
+      "message": "Okänt misstag!"
+   },
+   "upgrade": {
+      "message": "Uppgradera"
+   },
+   "upgrade_renewal": {
+      "message": "Förnya medlemskapet"
+   },
+   "upper_limit": {
+      "message": "Övre gräns"
+   },
+   "user_type": {
+      "message": "Användartyp:"
+   },
+   "visitor": {
+      "message": "Besökare"
+   },
+   "waiting_for_download": {
+      "message": "Väntar på nedladdning..."
+   },
+   "webstore": {
+      "message": "Lagra"
+   }
+}

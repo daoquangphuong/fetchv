@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Tambah"
+   },
+   "advanced_membership": {
+      "message": "Keahlian lanjutan"
+   },
+   "block": {
+      "message": "Sekat semua video daripada domain ini"
+   },
+   "block_domain_count_limit": {
+      "message": "Anda boleh menyekat sehingga 30 domain."
+   },
+   "block_success": {
+      "message": "Disekat berjaya! Anda boleh mengalih keluarnya dalam tetapan."
+   },
+   "bottom_alert": {
+      "message": "Sesetengah video mungkin perlu dimainkan untuk mengesan pautan, jadi cuba mainkannya. Jika masih tidak boleh mendapatkan pautan selepas bermain, cuba muat semula halaman atau dapatkannya\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Mod rakaman\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Cache dipadamkan"
+   },
+   "cache_deleteing": {
+      "message": "Cache akan dipadamkan:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Data kosong, tidak boleh dimuat turun"
+   },
+   "chunks_count": {
+      "message": "Kiraan ketulan:"
+   },
+   "close": {
+      "message": "tutup"
+   },
+   "conversion_error": {
+      "message": "Ralat penukaran!"
+   },
+   "copy": {
+      "message": "Salinan"
+   },
+   "copy_need_upgrade": {
+      "message": "Dilarang disalin kerana anda bukan keahlian lanjutan"
+   },
+   "copy_success": {
+      "message": "Berjaya disalin."
+   },
+   "current_user": {
+      "message": "Pengguna aktif："
+   },
+   "delete": {
+      "message": "Padam"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "domain_blocking": {
+      "message": "Perisai domain"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Fail daripada nama domain berikut tidak akan muncul dalam senarai muat turun. Tanpa https:// atau http://, seperti ini: www.example.com"
+   },
+   "download": {
+      "message": "Muat turun"
+   },
+   "download_cached": {
+      "message": "Muat turun bahagian cache"
+   },
+   "failed_to_get_resource": {
+      "message": "Gagal mendapatkan sumber!"
+   },
+   "file": {
+      "message": "Fail"
+   },
+   "format_filter": {
+      "message": "Penapisan format"
+   },
+   "format_filter_desc_1": {
+      "message": "Dalam senarai berikut, jenis video lanjutan yang dilumpuhkan akan diabaikan apabila merebut. Jika terdapat jenis video dalam senarai di bawah yang anda tidak perlukan, anda boleh melumpuhkannya."
+   },
+   "help": {
+      "message": "Tolong"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Rumah"
+   },
+   "hour": {
+      "message": "jam"
+   },
+   "loading": {
+      "message": "Memuatkan..."
+   },
+   "loading_resources": {
+      "message": "Memuatkan sumber..."
+   },
+   "loading_resources_fail": {
+      "message": "Pemuatan sumber gagal!"
+   },
+   "lower_limit": {
+      "message": "Had bawah"
+   },
+   "manifest_browser_action": {
+      "message": "Pemuat turun video FetchV"
+   },
+   "manifest_description": {
+      "message": "Muat turun semua jenis video dalam talian, termasuk HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Pemuat turun video(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Pusat Ahli"
+   },
+   "merging_data": {
+      "message": "Menggabungkan data..."
+   },
+   "merging_data_error": {
+      "message": "Ralat penggabungan data!"
+   },
+   "merging_videos": {
+      "message": "Menggabungkan video..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Jika video semasa mempunyai peleraian pilihan, sila pastikan anda memilih peleraian tetap dan bukannya automatik, jika tidak dalam keadaan rangkaian yang lemah, penukaran resolusi automatik, video yang dirakam akan dipecahkan kepada berbilang klip peleraian berbeza."
+   },
+   "modal_close": {
+      "message": "tutup"
+   },
+   "modal_confirm": {
+      "message": "sahkan"
+   },
+   "modal_title": {
+      "message": "Petua"
+   },
+   "more_than_one_day": {
+      "message": "Lebih dari sehari"
+   },
+   "network_error": {
+      "message": "Ralat Rangkaian!"
+   },
+   "no_cache": {
+      "message": "Belum ada cache tempatan lagi!"
+   },
+   "no_resources": {
+      "message": "Tiada sumber muat turun"
+   },
+   "no_result": {
+      "message": "Tiada fail sumber ditemui!"
+   },
+   "no_video": {
+      "message": "Video tidak boleh dirakam, atau video tidak wujud!"
+   },
+   "normal_membership": {
+      "message": "Keahlian biasa"
+   },
+   "not_support": {
+      "message": "Tapak ini tidak disokong"
+   },
+   "options": {
+      "message": "Pilihan"
+   },
+   "play": {
+      "message": "Main"
+   },
+   "record_complete_clip": {
+      "message": "Oleh kerana terdapat resolusi data yang berbeza dalam strim, video itu dibahagikan kepada beberapa segmen."
+   },
+   "record_error_encryption": {
+      "message": "Data video nampaknya mempunyai hak cipta."
+   },
+   "recording_complete": {
+      "message": "Rakaman selesai!"
+   },
+   "recording_error": {
+      "message": "Ralat rakaman!"
+   },
+   "request_timed_out": {
+      "message": "Permintaan tamat masa!"
+   },
+   "reset": {
+      "message": "Tetapkan semula"
+   },
+   "resources_list_empty": {
+      "message": "Senarai sumber kosong!"
+   },
+   "save": {
+      "message": "Jimat"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Sambungan pelayan gagal!"
+   },
+   "setting": {
+      "message": "Sediakan"
+   },
+   "setting_success": {
+      "message": "Menetapkan kejayaan!"
+   },
+   "size": {
+      "message": "Saiz"
+   },
+   "size_filter": {
+      "message": "Penapisan saiz"
+   },
+   "size_filter_desc_1": {
+      "message": "Anda boleh mendapatkan video dalam saiz yang ideal dengan pilihan ini. Contohnya, jika yang lebih rendah ialah 1024KB, video yang lebih kecil daripada 1024KB akan diabaikan. Jika bahagian atas ialah 1024KB, video yang lebih besar daripada 1024KB akan diabaikan. Jika nilai pilihan ialah 0, ia bermakna tiada had."
+   },
+   "size_filter_desc_2": {
+      "message": "Unit pilihan ini ialah \"KB\". Jika unit yang anda gunakan ialah Bytes, MB dan GB, anda perlu membuat penukaran yang sepadan. Berikut ialah hubungan penukaran:"
+   },
+   "task_exists": {
+      "message": "Tugas sudah wujud!"
+   },
+   "task_status_stop": {
+      "message": "Tugas ditangguhkan..."
+   },
+   "thunks_over_tips": {
+      "message": "Terlalu banyak ketulan boleh menyebabkan proses program gagal, sila simpan secepat mungkin dan mulakan rakaman baharu."
+   },
+   "timeout": {
+      "message": "Masa tamat tempoh:"
+   },
+   "unable_to_download": {
+      "message": "Tidak dapat memuat turun!"
+   },
+   "unknown_mistake": {
+      "message": "Kesilapan yang tidak diketahui!"
+   },
+   "upgrade": {
+      "message": "Naik taraf"
+   },
+   "upgrade_renewal": {
+      "message": "Perbaharui keahlian"
+   },
+   "upper_limit": {
+      "message": "Had atas"
+   },
+   "user_type": {
+      "message": "Jenis pengguna:"
+   },
+   "visitor": {
+      "message": "Pelawat"
+   },
+   "waiting_for_download": {
+      "message": "Menunggu muat turun..."
+   },
+   "webstore": {
+      "message": "Kedai"
+   }
+}

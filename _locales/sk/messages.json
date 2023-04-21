@@ -1,0 +1,257 @@
+{
+   "add": {
+      "message": "Pridať"
+   },
+   "advanced_membership": {
+      "message": "Pokročilé členstvo"
+   },
+   "block": {
+      "message": "Blokovať všetky videá z tejto domény"
+   },
+   "block_domain_count_limit": {
+      "message": "Môžete zablokovať až 30 domén."
+   },
+   "block_success": {
+      "message": "Blokovanie bolo úspešné! Môžete ho odstrániť v nastaveniach."
+   },
+   "bottom_alert": {
+      "message": "Na zistenie odkazov možno bude potrebné prehrať niektoré videá, skúste si ich teda prehrať. Ak po prehratí stále nemôžete získať odkaz, skúste obnoviť stránku alebo ju získať\u003Cb data-record=\"\" class=\"btn btn-sm btn-dark\">Režim nahrávania\u003C/b>"
+   },
+   "cache_deleted": {
+      "message": "Vyrovnávacia pamäť bola odstránená"
+   },
+   "cache_deleteing": {
+      "message": "Vyrovnávacia pamäť bude vymazaná:"
+   },
+   "cannot_be_downloaded": {
+      "message": "Údaje sú prázdne, nedajú sa stiahnuť"
+   },
+   "chunks_count": {
+      "message": "Počet kusov:"
+   },
+   "close": {
+      "message": "Zavrieť"
+   },
+   "conversion_error": {
+      "message": "Chyba konverzie!"
+   },
+   "copy": {
+      "message": "Kopírovať"
+   },
+   "copy_need_upgrade": {
+      "message": "Kopírovanie je zakázané, pretože nemáte pokročilé členstvo"
+   },
+   "copy_success": {
+      "message": "Úspešne skopírované."
+   },
+   "current_user": {
+      "message": "Aktívny používateľ:"
+   },
+   "delete": {
+      "message": "Odstrániť"
+   },
+   "domain": {
+      "message": "doména"
+   },
+   "domain_blocking": {
+      "message": "Tienenie domény"
+   },
+   "domain_blocking_desc_1": {
+      "message": "Súbory z nasledujúceho názvu domény sa nezobrazia v zozname sťahovania. Bez https:// alebo http://, takto: www.example.com"
+   },
+   "download": {
+      "message": "Stiahnuť ▼"
+   },
+   "download_cached": {
+      "message": "Stiahnite si časť uloženú vo vyrovnávacej pamäti"
+   },
+   "failed_to_get_resource": {
+      "message": "Nepodarilo sa získať zdroj!"
+   },
+   "file": {
+      "message": "Súbory"
+   },
+   "format_filter": {
+      "message": "Filtrovanie formátov"
+   },
+   "format_filter_desc_1": {
+      "message": "V nasledujúcom zozname budú zakázané rozšírené typy videa pri zachytávaní ignorované. Ak je v zozname nižšie typ videa, ktorý nepotrebujete, môžete ho vypnúť."
+   },
+   "help": {
+      "message": "Pomoc"
+   },
+   "hls": {
+      "message": "HLS"
+   },
+   "home": {
+      "message": "Domov"
+   },
+   "hour": {
+      "message": "hodina"
+   },
+   "loading": {
+      "message": "Načítava..."
+   },
+   "loading_resources": {
+      "message": "Načítavanie zdrojov..."
+   },
+   "loading_resources_fail": {
+      "message": "Načítanie zdroja zlyhalo!"
+   },
+   "lower_limit": {
+      "message": "Nižší limit"
+   },
+   "manifest_browser_action": {
+      "message": "Sťahovanie videa FetchV"
+   },
+   "manifest_description": {
+      "message": "Stiahnite si všetky druhy videí online, vrátane HLS, m3u8, blob, mp4, webm..."
+   },
+   "manifest_name": {
+      "message": "FetchV:Sťahovanie videa(HLS/m3u8/mp4/blob)"
+   },
+   "member": {
+      "message": "Členské centrum"
+   },
+   "merging_data": {
+      "message": "Zlučovanie údajov..."
+   },
+   "merging_data_error": {
+      "message": "Chyba pri zlučovaní údajov!"
+   },
+   "merging_videos": {
+      "message": "Spájanie videí..."
+   },
+   "minute": {
+      "message": "min"
+   },
+   "modal_body": {
+      "message": "Ak má aktuálne video voliteľné rozlíšenie, uistite sa, že ste zvolili pevné rozlíšenie namiesto automatického, inak v prípade zlých sieťových podmienok, automatické prepínanie rozlíšenia, bude zaznamenané video rozdelené do viacerých klipov s rôznym rozlíšením."
+   },
+   "modal_close": {
+      "message": "Zavrieť"
+   },
+   "modal_confirm": {
+      "message": "Potvrďte"
+   },
+   "modal_title": {
+      "message": "Tipy"
+   },
+   "more_than_one_day": {
+      "message": "Viac ako jeden deň"
+   },
+   "network_error": {
+      "message": "Chyba siete!"
+   },
+   "no_cache": {
+      "message": "Zatiaľ neexistuje žiadna miestna vyrovnávacia pamäť!"
+   },
+   "no_resources": {
+      "message": "Žiadne zdroje na stiahnutie"
+   },
+   "no_result": {
+      "message": "Nenašiel sa žiadny zdrojový súbor!"
+   },
+   "no_video": {
+      "message": "Video sa nedá nahrať alebo video neexistuje!"
+   },
+   "normal_membership": {
+      "message": "Normálne členstvo"
+   },
+   "not_support": {
+      "message": "Táto stránka nie je podporovaná"
+   },
+   "options": {
+      "message": "Možnosť"
+   },
+   "play": {
+      "message": "hrať"
+   },
+   "record_complete_clip": {
+      "message": "Vzhľadom na rozdielne rozlíšenie dát v streame je video rozdelené na segmenty."
+   },
+   "record_error_encryption": {
+      "message": "Zdá sa, že údaje videa sú chránené autorskými právami."
+   },
+   "recording_complete": {
+      "message": "Nahrávanie dokončené!"
+   },
+   "recording_error": {
+      "message": "Chyba záznamu!"
+   },
+   "request_timed_out": {
+      "message": "Požiadavka vypršala!"
+   },
+   "reset": {
+      "message": "Resetovať"
+   },
+   "resources_list_empty": {
+      "message": "Zoznam zdrojov je prázdny!"
+   },
+   "save": {
+      "message": "Uložiť"
+   },
+   "second": {
+      "message": "s"
+   },
+   "server_connection_failed": {
+      "message": "Pripojenie k serveru zlyhalo!"
+   },
+   "setting": {
+      "message": "Nastaviť"
+   },
+   "setting_success": {
+      "message": "Nastavenie úspechu!"
+   },
+   "size": {
+      "message": "Veľkosť"
+   },
+   "size_filter": {
+      "message": "Filtrovanie podľa veľkosti"
+   },
+   "size_filter_desc_1": {
+      "message": "Pomocou tejto možnosti môžete získať videá v ideálnej veľkosti. Ak je napríklad nižšia veľkosť 1024 kB, videá menšie ako 1024 kB budú ignorované. Ak je horná veľkosť 1024 kB, videá väčšie ako 1024 kB budú ignorované. Ak je hodnota možnosti 0, znamená to bez obmedzenia."
+   },
+   "size_filter_desc_2": {
+      "message": "Jednotkou tejto možnosti je \"KB\". Ak sú jednotkou, ktorú používate, bajty, MB a GB, musíte vykonať príslušnú konverziu. Tu je konverzný vzťah:"
+   },
+   "task_exists": {
+      "message": "Úloha už existuje!"
+   },
+   "task_status_stop": {
+      "message": "Úloha je pozastavená..."
+   },
+   "thunks_over_tips": {
+      "message": "Príliš veľa kúskov môže spôsobiť zlyhanie procesu programu, uložte ho čo najskôr a spustite nový záznam."
+   },
+   "timeout": {
+      "message": "Doba platnosti:"
+   },
+   "unable_to_download": {
+      "message": "Nie je možné stiahnúť!"
+   },
+   "unknown_mistake": {
+      "message": "Neznáma chyba!"
+   },
+   "upgrade": {
+      "message": "Inovovať"
+   },
+   "upgrade_renewal": {
+      "message": "Obnoviť členstvo"
+   },
+   "upper_limit": {
+      "message": "Horná hranica"
+   },
+   "user_type": {
+      "message": "Typ používateľa:"
+   },
+   "visitor": {
+      "message": "Návštevník"
+   },
+   "waiting_for_download": {
+      "message": "Čaká sa na stiahnutie..."
+   },
+   "webstore": {
+      "message": "Obchod"
+   }
+}

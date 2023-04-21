@@ -1,0 +1,24 @@
+{
+  "size": {
+    "min": 300,
+    "max": 0
+  },
+  "ext": [
+    {"name": "m3u8", "checked": true},
+    {"name": "m3u", "checked": true},
+    {"name": "mp4", "checked": true},
+    {"name": "3gp", "checked": true},
+    {"name": "flv", "checked": true},
+    {"name": "mov", "checked": true},
+    {"name": "avi", "checked": true},
+    {"name": "wmv", "checked": true},
+    {"name": "webm", "checked": true},
+    {"name": "f4v", "checked": true},
+    {"name": "acc", "checked": true},
+    {"name": "mkv", "checked": true}
+  ],
+  "domain": [],
+  "lang": ["nl","vi","es","pt","pt-br","pt-pt","de","fr","it","no","fi","sv","da","el","tr","ru","hi","zh-cn","th","ko","ro","pl","zh-tw","ga","et","bg","cs","ms","sk","hu","id","fil"],
+  "site": "https://fetchv.net",
+  "autosave": false
+}
